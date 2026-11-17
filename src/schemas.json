@@ -1,0 +1,7546 @@
+{
+  "AnswerType": {
+    "LangID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RewardAttrs": {
+      "number": 2,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.AttrType"
+    },
+    "RewardAttrValues": {
+      "number": 3,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "RewardItems": {
+      "number": 4,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "RewardItemValues": {
+      "number": 5,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "RewardRenyi": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RandomRewardDesc": {
+      "number": 7,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RandomRewardID": {
+      "number": 8,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RandomRoleID": {
+      "number": 9,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    }
+  },
+  "BattleRoleDataInfo": {
+    "ID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Type": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "FargID": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Count": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MaxCount": {
+      "number": 5,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "BuildingFunc": {
+    "FuncKey": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "FuncValue": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "FuncValueEx": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "BuildingUpgrade": {
+    "UpgradeItemID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "UpgradeItemNum": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "CardTypeWeightPair": {
+    "CardFirstType": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MazeCardFirstType"
+    },
+    "CardSecondType": {
+      "number": 2,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MazeCardSecondType"
+    },
+    "Weight": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "CityValuePair": {
+    "City": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Value": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "ClanValuePair": {
+    "Clan": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Value": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "CommonConnection": {
+    "FristNode": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "SecondNode": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "CommonItem": {
+    "ItemId": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ItemNum": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "CommonTypeHolder": {
+    "hold_1": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AchievePlatformType"
+    },
+    "hold_2": {
+      "number": 2,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AchieveRewardNavType"
+    },
+    "hold_3": {
+      "number": 3,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AchieveRewardType"
+    },
+    "hold_4": {
+      "number": 4,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AcupointTargetType"
+    },
+    "hold_5": {
+      "number": 5,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AdventureType"
+    },
+    "hold_6": {
+      "number": 6,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AdvLootType"
+    },
+    "hold_7": {
+      "number": 7,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.AnswerType"
+    },
+    "hold_8": {
+      "number": 8,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ArticleTargetEnum"
+    },
+    "hold_9": {
+      "number": 9,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AttrType"
+    },
+    "hold_10": {
+      "number": 10,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AudioType"
+    },
+    "hold_11": {
+      "number": 11,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BabyUpgradeType"
+    },
+    "hold_12": {
+      "number": 12,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BattleAIActionClass"
+    },
+    "hold_13": {
+      "number": 13,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BattleAIActionType"
+    },
+    "hold_14": {
+      "number": 14,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BattleAIMartionType"
+    },
+    "hold_15": {
+      "number": 15,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BattleAITargetClass"
+    },
+    "hold_16": {
+      "number": 16,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BattleAITargetType"
+    },
+    "hold_17": {
+      "number": 17,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BattleFactorType"
+    },
+    "hold_18": {
+      "number": 18,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BattleFunctionType"
+    },
+    "hold_19": {
+      "number": 19,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BattleResult"
+    },
+    "hold_20": {
+      "number": 20,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.BattleRoleDataInfo"
+    },
+    "hold_21": {
+      "number": 21,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BattleRoundInfoType"
+    },
+    "hold_22": {
+      "number": 22,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BattleType"
+    },
+    "hold_23": {
+      "number": 23,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BehaviorType"
+    },
+    "hold_24": {
+      "number": 24,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BigmapEventType"
+    },
+    "hold_25": {
+      "number": 25,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BigmapMoveType"
+    },
+    "hold_26": {
+      "number": 26,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BroadCastTipsNameType"
+    },
+    "hold_27": {
+      "number": 27,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BuffFeatureType"
+    },
+    "hold_28": {
+      "number": 28,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.BuildingFunc"
+    },
+    "hold_29": {
+      "number": 29,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BuildingFuncType"
+    },
+    "hold_30": {
+      "number": 30,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BuildingType"
+    },
+    "hold_31": {
+      "number": 31,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.BuildingUpgrade"
+    },
+    "hold_32": {
+      "number": 32,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.CardTypeWeightPair"
+    },
+    "hold_33": {
+      "number": 33,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.CDropType"
+    },
+    "hold_34": {
+      "number": 34,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.CGType"
+    },
+    "hold_35": {
+      "number": 35,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ChannelType"
+    },
+    "hold_36": {
+      "number": 36,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.CheatCondition"
+    },
+    "hold_37": {
+      "number": 37,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.CityStage"
+    },
+    "hold_38": {
+      "number": 38,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.CityValuePair"
+    },
+    "hold_39": {
+      "number": 39,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ClanEliminateType"
+    },
+    "hold_40": {
+      "number": 40,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ClanLock"
+    },
+    "hold_41": {
+      "number": 41,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ClanMartialConfig"
+    },
+    "hold_42": {
+      "number": 42,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ClanMemberType"
+    },
+    "hold_43": {
+      "number": 43,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ClanMissionType"
+    },
+    "hold_44": {
+      "number": 44,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ClanType"
+    },
+    "hold_45": {
+      "number": 45,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.ClanValuePair"
+    },
+    "hold_46": {
+      "number": 46,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.CollectionType"
+    },
+    "hold_47": {
+      "number": 47,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ComicFitType"
+    },
+    "hold_48": {
+      "number": 48,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.CommonConnection"
+    },
+    "hold_49": {
+      "number": 49,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.CommonItem"
+    },
+    "hold_50": {
+      "number": 50,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.CompareSignType"
+    },
+    "hold_51": {
+      "number": 51,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ConditionType"
+    },
+    "hold_52": {
+      "number": 52,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ConfigType"
+    },
+    "hold_53": {
+      "number": 53,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.CreateFacePositionType"
+    },
+    "hold_54": {
+      "number": 54,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.CtrlTimeType"
+    },
+    "hold_55": {
+      "number": 55,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.CtrlTypeType"
+    },
+    "hold_56": {
+      "number": 56,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.CustomPlotType"
+    },
+    "hold_57": {
+      "number": 57,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.DailyLimitActType"
+    },
+    "hold_58": {
+      "number": 58,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.Data_Offset"
+    },
+    "hold_59": {
+      "number": 59,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.Data_Scale"
+    },
+    "hold_60": {
+      "number": 60,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.DelegationTaskParamsSettingInfo"
+    },
+    "hold_61": {
+      "number": 61,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.DelegationTaskTypeWeightPair"
+    },
+    "hold_62": {
+      "number": 62,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.DepartEnumType"
+    },
+    "hold_63": {
+      "number": 63,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.DisguiseType"
+    },
+    "hold_64": {
+      "number": 64,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.DispositionRangeClanMemberInfo"
+    },
+    "hold_65": {
+      "number": 65,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.DLC"
+    },
+    "hold_66": {
+      "number": 66,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.DropDataType"
+    },
+    "hold_67": {
+      "number": 67,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.DropLuckRuleData"
+    },
+    "hold_68": {
+      "number": 68,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.DropRandomType"
+    },
+    "hold_69": {
+      "number": 69,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.DueTimeType"
+    },
+    "hold_70": {
+      "number": 70,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.DyConditonType"
+    },
+    "hold_71": {
+      "number": 71,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.DyTaskEventType"
+    },
+    "hold_72": {
+      "number": 72,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EdgeFlagType"
+    },
+    "hold_73": {
+      "number": 73,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EffectDescription"
+    },
+    "hold_74": {
+      "number": 74,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EffectGroupType"
+    },
+    "hold_75": {
+      "number": 75,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EffectListOpType"
+    },
+    "hold_76": {
+      "number": 76,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EffectSubType"
+    },
+    "hold_77": {
+      "number": 77,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EffectType"
+    },
+    "hold_78": {
+      "number": 78,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EmBattleSchemeType"
+    },
+    "hold_79": {
+      "number": 79,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EmbattleType"
+    },
+    "hold_80": {
+      "number": 80,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EnterPrisonType"
+    },
+    "hold_81": {
+      "number": 81,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EquipOptType"
+    },
+    "hold_82": {
+      "number": 82,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.Event"
+    },
+    "hold_83": {
+      "number": 83,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EventTriggerType"
+    },
+    "hold_84": {
+      "number": 84,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EvoluteActionType"
+    },
+    "hold_85": {
+      "number": 85,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EvoluteRecordType"
+    },
+    "hold_86": {
+      "number": 86,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.ExtraAttr"
+    },
+    "hold_87": {
+      "number": 87,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.FavorType"
+    },
+    "hold_88": {
+      "number": 88,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.FinalBattleCityState"
+    },
+    "hold_89": {
+      "number": 89,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.ForgeMakeInfo"
+    },
+    "hold_90": {
+      "number": 90,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ForgeMakeType"
+    },
+    "hold_91": {
+      "number": 91,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.GameData"
+    },
+    "hold_92": {
+      "number": 92,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.GiftFlagType"
+    },
+    "hold_93": {
+      "number": 93,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.GiftPoolType"
+    },
+    "hold_94": {
+      "number": 94,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.GiftType"
+    },
+    "hold_95": {
+      "number": 95,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.GoodEvilBehavior"
+    },
+    "hold_96": {
+      "number": 96,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.Grade"
+    },
+    "hold_97": {
+      "number": 97,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.GuideActionType"
+    },
+    "hold_98": {
+      "number": 98,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.GuideEvent"
+    },
+    "hold_99": {
+      "number": 99,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.GuideTipAlign"
+    },
+    "hold_100": {
+      "number": 100,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.GuideType"
+    },
+    "hold_101": {
+      "number": 101,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.HandBookType"
+    },
+    "hold_102": {
+      "number": 102,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.HighTowerType"
+    },
+    "hold_103": {
+      "number": 103,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.HoodleLotteryPoolType"
+    },
+    "hold_104": {
+      "number": 104,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.HouseChatBubbleType"
+    },
+    "hold_105": {
+      "number": 105,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.HuaShanRankType"
+    },
+    "hold_106": {
+      "number": 106,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.InteractType"
+    },
+    "hold_107": {
+      "number": 107,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.IntIntPair"
+    },
+    "hold_108": {
+      "number": 108,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.IntRange"
+    },
+    "hold_109": {
+      "number": 109,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.ItemCommonUseCond"
+    },
+    "hold_110": {
+      "number": 110,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ItemCommonUseCondType"
+    },
+    "hold_111": {
+      "number": 111,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.ItemKFRankValuePair"
+    },
+    "hold_112": {
+      "number": 112,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ItemTypeA"
+    },
+    "hold_113": {
+      "number": 113,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ItemTypeB"
+    },
+    "hold_114": {
+      "number": 114,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.ItemTypeBKFAttrArrayPair"
+    },
+    "hold_115": {
+      "number": 115,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.ItemTypeBRoleAttrArrayPair"
+    },
+    "hold_116": {
+      "number": 116,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.ItemTypeBValueArrayPair"
+    },
+    "hold_117": {
+      "number": 117,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ItemTypeDetail"
+    },
+    "hold_118": {
+      "number": 118,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.KFAttrValuePair"
+    },
+    "hold_119": {
+      "number": 119,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.KFFeatureType"
+    },
+    "hold_120": {
+      "number": 120,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.LimitBreakFightType"
+    },
+    "hold_121": {
+      "number": 121,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.LimitShopActionType"
+    },
+    "hold_122": {
+      "number": 122,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.LimitShopState"
+    },
+    "hold_123": {
+      "number": 123,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.LimitShopType"
+    },
+    "hold_124": {
+      "number": 124,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.LuckyItemType"
+    },
+    "hold_125": {
+      "number": 125,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MainRoleData"
+    },
+    "hold_126": {
+      "number": 126,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MallRewardType"
+    },
+    "hold_127": {
+      "number": 127,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MapBuildingType"
+    },
+    "hold_128": {
+      "number": 128,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MapSceneType"
+    },
+    "hold_129": {
+      "number": 129,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MartialItemEffect"
+    },
+    "hold_130": {
+      "number": 130,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MartialItemFeature"
+    },
+    "hold_131": {
+      "number": 131,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MartialItemType"
+    },
+    "hold_132": {
+      "number": 132,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MartialRemainsRank"
+    },
+    "hold_133": {
+      "number": 133,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MartialStrongLevel"
+    },
+    "hold_134": {
+      "number": 134,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MartialStrongType"
+    },
+    "hold_135": {
+      "number": 135,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MazeCardFirstType"
+    },
+    "hold_136": {
+      "number": 136,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.MazeCardItem"
+    },
+    "hold_137": {
+      "number": 137,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MazeCardSecondType"
+    },
+    "hold_138": {
+      "number": 138,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.MazeCardSetting"
+    },
+    "hold_139": {
+      "number": 139,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.MazeCardTypeAutoMoveSetting"
+    },
+    "hold_140": {
+      "number": 140,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.MazeGrid"
+    },
+    "hold_141": {
+      "number": 141,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.MazeModuleSetting"
+    },
+    "hold_142": {
+      "number": 142,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.MazePos"
+    },
+    "hold_143": {
+      "number": 143,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MODType"
+    },
+    "hold_144": {
+      "number": 144,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MoneyType"
+    },
+    "hold_145": {
+      "number": 145,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MusicalNote"
+    },
+    "hold_146": {
+      "number": 146,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.NodeDataType"
+    },
+    "hold_147": {
+      "number": 147,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.NoviceGuideFinishFlag"
+    },
+    "hold_148": {
+      "number": 148,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.NpcEvoluteType"
+    },
+    "hold_149": {
+      "number": 149,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.OperationSignType"
+    },
+    "hold_150": {
+      "number": 150,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.OutputTypeType"
+    },
+    "hold_151": {
+      "number": 151,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.PetAttrType"
+    },
+    "hold_152": {
+      "number": 152,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.PetBuffType"
+    },
+    "hold_153": {
+      "number": 153,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.PlatBuffType"
+    },
+    "hold_154": {
+      "number": 154,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.PlayerBehaviorType"
+    },
+    "hold_155": {
+      "number": 155,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.PlayerInfoType"
+    },
+    "hold_156": {
+      "number": 156,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.PlotType"
+    },
+    "hold_157": {
+      "number": 157,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RackItemMoneyType"
+    },
+    "hold_158": {
+      "number": 158,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RackItemOpenType"
+    },
+    "hold_159": {
+      "number": 159,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RackItemProperty"
+    },
+    "hold_160": {
+      "number": 160,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RackItemType"
+    },
+    "hold_161": {
+      "number": 161,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.RandomBase"
+    },
+    "hold_162": {
+      "number": 162,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankListAllType"
+    },
+    "hold_163": {
+      "number": 163,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.RankRange"
+    },
+    "hold_164": {
+      "number": 164,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    },
+    "hold_165": {
+      "number": 165,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.RankValuePair"
+    },
+    "hold_166": {
+      "number": 166,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.RealityDate"
+    },
+    "hold_167": {
+      "number": 167,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RedPacketType"
+    },
+    "hold_168": {
+      "number": 168,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ResDropActivityTarScene"
+    },
+    "hold_169": {
+      "number": 169,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ResDropActivityTarSubScene"
+    },
+    "hold_170": {
+      "number": 170,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ResDropActivityType"
+    },
+    "hold_171": {
+      "number": 171,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ResourceModelType"
+    },
+    "hold_172": {
+      "number": 172,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RoguelikeNodeType"
+    },
+    "hold_173": {
+      "number": 173,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.RoleAttrValuePair"
+    },
+    "hold_174": {
+      "number": 174,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RoleCardEffect"
+    },
+    "hold_175": {
+      "number": 175,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RoleTypeTemplate"
+    },
+    "hold_176": {
+      "number": 176,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.RoleValuePair"
+    },
+    "hold_177": {
+      "number": 177,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RougeMartialType"
+    },
+    "hold_178": {
+      "number": 178,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ScriptChangeType"
+    },
+    "hold_179": {
+      "number": 179,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SensiBehaviorType"
+    },
+    "hold_180": {
+      "number": 180,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SeUnitCampType"
+    },
+    "hold_181": {
+      "number": 181,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SexType"
+    },
+    "hold_182": {
+      "number": 182,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ShopBuyLimitResetType"
+    },
+    "hold_183": {
+      "number": 183,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ShopDiscountType"
+    },
+    "hold_184": {
+      "number": 184,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ShopItemBuyLimitType"
+    },
+    "hold_185": {
+      "number": 185,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ShowEmbattleType"
+    },
+    "hold_186": {
+      "number": 186,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SkillEffectDescription"
+    },
+    "hold_187": {
+      "number": 187,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SkillTargetType"
+    },
+    "hold_188": {
+      "number": 188,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.SkillTriggerInfo"
+    },
+    "hold_189": {
+      "number": 189,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SkillType"
+    },
+    "hold_190": {
+      "number": 190,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SpcItemType"
+    },
+    "hold_191": {
+      "number": 191,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SpecialBuffType"
+    },
+    "hold_192": {
+      "number": 192,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SpineAnimType"
+    },
+    "hold_193": {
+      "number": 193,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.StatusType"
+    },
+    "hold_194": {
+      "number": 194,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.StoryAction"
+    },
+    "hold_195": {
+      "number": 195,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.StoryDiffDropFinishType"
+    },
+    "hold_196": {
+      "number": 196,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.StoryDiffDropRewardType"
+    },
+    "hold_197": {
+      "number": 197,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.StoryDiffItemEvent"
+    },
+    "hold_198": {
+      "number": 198,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.StoryEffect"
+    },
+    "hold_199": {
+      "number": 199,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.StoryMood"
+    },
+    "hold_200": {
+      "number": 200,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.StoryName"
+    },
+    "hold_201": {
+      "number": 201,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.StoryUnlockType"
+    },
+    "hold_202": {
+      "number": 202,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SystemType"
+    },
+    "hold_203": {
+      "number": 203,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TaskDescProgressType"
+    },
+    "hold_204": {
+      "number": 204,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TaskDescStatesType"
+    },
+    "hold_205": {
+      "number": 205,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TaskDescType"
+    },
+    "hold_206": {
+      "number": 206,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TaskDynamicType"
+    },
+    "hold_207": {
+      "number": 207,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TaskEdgeType"
+    },
+    "hold_208": {
+      "number": 208,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TaskEventCallbackType"
+    },
+    "hold_209": {
+      "number": 209,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TaskFargName"
+    },
+    "hold_210": {
+      "number": 210,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TaskFlag"
+    },
+    "hold_211": {
+      "number": 211,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TaskGroup"
+    },
+    "hold_212": {
+      "number": 212,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TaskNormalRewardType"
+    },
+    "hold_213": {
+      "number": 213,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TaskRewardType"
+    },
+    "hold_214": {
+      "number": 214,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TaskType"
+    },
+    "hold_215": {
+      "number": 215,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "hold_216": {
+      "number": 216,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TextType"
+    },
+    "hold_217": {
+      "number": 217,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.TimeLimitGiftFirstPush"
+    },
+    "hold_218": {
+      "number": 218,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.TimeLimitGiftPriority"
+    },
+    "hold_219": {
+      "number": 219,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ToastType"
+    },
+    "hold_220": {
+      "number": 220,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TreasureTaskType"
+    },
+    "hold_221": {
+      "number": 221,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TreasureTaskTypeA"
+    },
+    "hold_222": {
+      "number": 222,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TreasureTaskTypeB"
+    },
+    "hold_223": {
+      "number": 223,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.UpgradeAttrType"
+    },
+    "hold_224": {
+      "number": 224,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.UpgradeBuffType"
+    },
+    "hold_225": {
+      "number": 225,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.ValueWeightPair"
+    },
+    "hold_226": {
+      "number": 226,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.Vec3Struct"
+    },
+    "hold_227": {
+      "number": 227,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.WeekEndDataEnum"
+    },
+    "hold_228": {
+      "number": 228,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.WeekEndEnum"
+    },
+    "hold_229": {
+      "number": 229,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.WishquestType"
+    },
+    "hold_230": {
+      "number": 230,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ZhiDingJiZhiType"
+    }
+  },
+  "Data_Offset": {
+    "px": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "py": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "degree": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Data_Scale": {
+    "px": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "py": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "DelegationTaskParamsSettingInfo": {
+    "TaskDifficulty": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Weight": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ClanDispositionReward": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "DelegationTaskTypeWeightPair": {
+    "TaskType": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ClanMissionType"
+    },
+    "Weight": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "DispositionRangeClanMemberInfo": {
+    "MinDisposition": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MaxDisposition": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ClanMember": {
+      "number": 3,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ClanMemberType"
+    }
+  },
+  "DropDataType": {
+    "ItemID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MartialBook": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MartialPage": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RoleAttr": {
+      "number": 4,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AttrType"
+    },
+    "ItemTypes": {
+      "number": 5,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.ItemTypeDetail"
+    },
+    "RankMin": {
+      "number": 6,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    },
+    "RankMax": {
+      "number": 7,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    },
+    "DropID": {
+      "number": 8,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ItemCountMin": {
+      "number": 9,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ItemCountMax": {
+      "number": 10,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Weight": {
+      "number": 11,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DropCtrlID": {
+      "number": 12,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TianshuGift": {
+      "number": 13,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RoleCard": {
+      "number": 14,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "SpeItem": {
+      "number": 15,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SpcItemType"
+    },
+    "DropTips": {
+      "number": 16,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ItemSubTypes": {
+      "number": 17,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "ConditionID": {
+      "number": 18,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RepairTagID": {
+      "number": 19,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "NotDropItem": {
+      "number": 20,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "DropLuckRuleData": {
+    "HighWhite": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "HighGreen": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "HighBlue": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "HighPurple": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "HighOrange": {
+      "number": 5,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "HighGold": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "HighDarkGold": {
+      "number": 7,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "HighItemTypeID": {
+      "number": 8,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MidWhite": {
+      "number": 9,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MidGreen": {
+      "number": 10,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MidBlue": {
+      "number": 11,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MidPurple": {
+      "number": 12,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MidOrange": {
+      "number": 13,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MidGold": {
+      "number": 14,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MidDarkGold": {
+      "number": 15,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MidItemTypeID": {
+      "number": 16,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "LowWhite": {
+      "number": 17,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "LowGreen": {
+      "number": 18,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "LowBlue": {
+      "number": 19,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "LowPurple": {
+      "number": 20,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "LowOrange": {
+      "number": 21,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "LowGold": {
+      "number": 22,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "LowDarkGold": {
+      "number": 23,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "LowItemTypeID": {
+      "number": 24,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "ExtraAttr": {
+    "Attr": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AttrType"
+    },
+    "Rank": {
+      "number": 2,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    }
+  },
+  "ForgeMakeInfo": {
+    "ForgeMakeID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ShowConditionID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "BehaviorID": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "IntIntPair": {
+    "FirstValue": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "SecondValue": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "IntRange": {
+    "MinValue": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MaxValue": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "ItemCommonUseCond": {
+    "CondType": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ItemCommonUseCondType"
+    },
+    "CondValue": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "ItemKFRankValuePair": {
+    "ItemRank": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    },
+    "Value": {
+      "number": 2,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    }
+  },
+  "ItemTypeBKFAttrArrayPair": {
+    "ItemType": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ItemTypeDetail"
+    },
+    "Attr": {
+      "number": 2,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.AttrType"
+    }
+  },
+  "ItemTypeBRoleAttrArrayPair": {
+    "ItemType": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ItemTypeDetail"
+    },
+    "Attr": {
+      "number": 2,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.AttrType"
+    }
+  },
+  "ItemTypeBValueArrayPair": {
+    "ItemType": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ItemTypeDetail"
+    },
+    "ValueArray": {
+      "number": 2,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    }
+  },
+  "KFAttrValuePair": {
+    "Attr": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AttrType"
+    },
+    "Value": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "MazeCardItem": {
+    "NameID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ModelID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "MazeCardSetting": {
+    "CardID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "FirstType": {
+      "number": 2,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MazeCardFirstType"
+    },
+    "SecondType": {
+      "number": 3,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MazeCardSecondType"
+    },
+    "CardCount": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Condition": {
+      "number": 5,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "MazeCardTypeAutoMoveSetting": {
+    "FirstType": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MazeCardFirstType"
+    },
+    "CanAutoMove": {
+      "number": 2,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    }
+  },
+  "MazeGrid": {
+    "Row": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Column": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "FirstType": {
+      "number": 3,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MazeCardFirstType"
+    },
+    "SecondType": {
+      "number": 4,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MazeCardSecondType"
+    },
+    "CardID": {
+      "number": 5,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "IsStatic": {
+      "number": 6,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    }
+  },
+  "MazeModuleSetting": {
+    "ModuleID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Count": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "MazePos": {
+    "Row": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Column": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "NodeDataType": {
+    "Num": {
+      "number": 1,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "Type": {
+      "number": 2,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.RoguelikeNodeType"
+    },
+    "Weight": {
+      "number": 3,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    }
+  },
+  "RandomBase": {
+    "MinBaseValue": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MaxBaseValue": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MinExtraValue": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MaxExtraValue": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "RankRange": {
+    "MinRank": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    },
+    "MaxRank": {
+      "number": 2,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    }
+  },
+  "RankValuePair": {
+    "Rank": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    },
+    "Value": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "RealityDate": {
+    "Year": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Month": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Day": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "RoleAttrValuePair": {
+    "Attr": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AttrType"
+    },
+    "Value": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "RoleValuePair": {
+    "Role": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Value": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "SkillTriggerInfo": {
+    "Event": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.Event"
+    },
+    "ConditionID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EffectID": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EffectGroup": {
+      "number": 4,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EffectGroupType"
+    },
+    "EffectGroupLevel": {
+      "number": 5,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EffectGroupFargID": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Priority": {
+      "number": 7,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EffectCampGroup": {
+      "number": 8,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EffectGroupType"
+    },
+    "EffectCampGroupLevel": {
+      "number": 9,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EffectCampGroupFargID": {
+      "number": 10,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EffectShowFlag": {
+      "number": 11,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "TimeLimitGiftFirstPush": {
+    "FirstPushGiftType": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "FirstPushGiftGrade": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "TimeLimitGiftPriority": {
+    "TimeLimitGiftGradeCondNum": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TimeLimitGiftGradeCond": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TimeLimitGiftCount": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TimeLimitGiftGrade": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "ValueWeightPair": {
+    "Value": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Weight": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Vec3Struct": {
+    "X": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Y": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Z": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Item": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Prefix": {
+      "number": 2,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Postfix": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "ItemName": {
+      "number": 4,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "ItemDesc": {
+      "number": 5,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Rank": {
+      "number": 6,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    },
+    "Icon": {
+      "number": 7,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "ItemImg": {
+      "number": 8,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Model": {
+      "number": 9,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "ItemType": {
+      "number": 10,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ItemTypeDetail"
+    },
+    "LimitNum": {
+      "number": 11,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MaxNum": {
+      "number": 12,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "BuyPrice": {
+      "number": 13,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "SellPrice": {
+      "number": 14,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Present": {
+      "number": 15,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.FavorType"
+    },
+    "Feature": {
+      "number": 16,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.Item_ItemFeature"
+    },
+    "CommonUseCondition": {
+      "number": 17,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.ItemCommonUseCond"
+    },
+    "levelCond": {
+      "number": 18,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "clanCond": {
+      "number": 19,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "attrCond": {
+      "number": 20,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AttrType"
+    },
+    "attrValueCond": {
+      "number": 21,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EffectType": {
+      "number": 22,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EffectType"
+    },
+    "EffectSubType": {
+      "number": 23,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EffectSubType"
+    },
+    "EffectTraget": {
+      "number": 24,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "RoleAttribute": {
+      "number": 25,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AttrType"
+    },
+    "GameData": {
+      "number": 26,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.GameData"
+    },
+    "Value1": {
+      "number": 27,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Value2": {
+      "number": 28,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Value3": {
+      "number": 29,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Value4": {
+      "number": 30,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Value5": {
+      "number": 31,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "StaticAttrTypeList": {
+      "number": 32,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.ExtraAttr"
+    },
+    "RecastAttrGenID": {
+      "number": 33,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "CertainAttr": {
+      "number": 34,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.AttrType"
+    },
+    "Clan": {
+      "number": 35,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ClanType"
+    },
+    "MartialID": {
+      "number": 36,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "GiftID": {
+      "number": 37,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "PersonalTreasure": {
+      "number": 38,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ClanTreasure": {
+      "number": 39,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NoneTreasure": {
+      "number": 40,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "ItemSource": {
+      "number": 41,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "BlueGift": {
+      "number": 42,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "BlueAttr": {
+      "number": 43,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.AttrType"
+    },
+    "BlueAttrValue": {
+      "number": 44,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "BlueMartial": {
+      "number": 45,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "BlueGiftUnlockLv": {
+      "number": 46,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "BlueAttrUnlockLv": {
+      "number": 47,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "FragmentRole": {
+      "number": 48,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TimeLength": {
+      "number": 49,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TimeLine": {
+      "number": 50,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DropCondID": {
+      "number": 51,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "OrigItemID": {
+      "number": 52,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DueTimeType": {
+      "number": 53,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.DueTimeType"
+    },
+    "DueTimeValue": {
+      "number": 54,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ParamArray": {
+      "number": 55,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    }
+  },
+  "ItemArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.Item"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Gift": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "GiftType": {
+      "number": 2,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.GiftType"
+    },
+    "NameID": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DescID": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Rank": {
+      "number": 5,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    },
+    "AddGiftType": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Cost": {
+      "number": 7,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "GiftFlag": {
+      "number": 8,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.GiftFlagType"
+    },
+    "Owner": {
+      "number": 9,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "AttrType": {
+      "number": 10,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.AttrType"
+    },
+    "AttrValue": {
+      "number": 11,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "SrcAttr": {
+      "number": 12,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.AttrType"
+    },
+    "ConVAttrValue": {
+      "number": 13,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ConvAttrLimit": {
+      "number": 14,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "AttrMartial": {
+      "number": 15,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "ClanID": {
+      "number": 16,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "Depart": {
+      "number": 17,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.DepartEnumType"
+    },
+    "AttrPercent": {
+      "number": 18,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "AttrPercentFlag": {
+      "number": 19,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "SkillTriggers": {
+      "number": 20,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.SkillTriggerInfo"
+    },
+    "RiskParam": {
+      "number": 21,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "SurperType": {
+      "number": 22,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "AddType": {
+      "number": 23,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "AddLevel": {
+      "number": 24,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EffectOnAdd": {
+      "number": 25,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "EffectOnAddAttr": {
+      "number": 26,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "EffectOnAddAttrValue": {
+      "number": 27,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "EffectOnAddByLevel": {
+      "number": 28,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "CollectionClan": {
+      "number": 29,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "AlowEdit": {
+      "number": 30,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "AdventureType": {
+      "number": 31,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AdventureType"
+    },
+    "AdventureLevel": {
+      "number": 32,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "GiftArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.Gift"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Language": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Ch_Text": {
+      "number": 2,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "English_Text": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "AudioClip": {
+      "number": 4,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "LanguageArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.Language"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "AttrIsPercent": {
+    "BaseID": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AttrType"
+    },
+    "PerMyriad": {
+      "number": 2,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "ShowAsPercent": {
+      "number": 3,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    }
+  },
+  "AttrIsPercentArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.AttrIsPercent"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Martial": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NameID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DesID": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DepartEnum": {
+      "number": 4,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.DepartEnumType"
+    },
+    "ClanID": {
+      "number": 5,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Rank": {
+      "number": 6,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    },
+    "KFFeature": {
+      "number": 7,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.KFFeatureType"
+    },
+    "Drop": {
+      "number": 8,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "MascCoef": {
+      "number": 9,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "FemiCoef": {
+      "number": 10,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "GrowProIDs": {
+      "number": 11,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "MartMovIDs": {
+      "number": 12,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "UnlockLvls": {
+      "number": 13,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "UnlockClauses": {
+      "number": 14,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "LvLimit": {
+      "number": 15,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Multistage": {
+      "number": 16,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "Toxic": {
+      "number": 17,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "Display": {
+      "number": 18,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "CouldCopy": {
+      "number": 19,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "Exclusive": {
+      "number": 20,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "ColdTime": {
+      "number": 21,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "LearnCondition": {
+      "number": 22,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.ClanMartialConfig"
+    },
+    "LearnConditionValue": {
+      "number": 23,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "AlowEdit": {
+      "number": 24,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "EffectValue": {
+      "number": 25,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RougeMartialType": {
+      "number": 26,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EffectValue2": {
+      "number": 27,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MartialTags": {
+      "number": 28,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    }
+  },
+  "MartialArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.Martial"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "SeBeItemEquipInfo": {
+    "changetype": {
+      "number": 1,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "dirtyflag": {
+      "number": 2,
+      "type": 4,
+      "label": 1,
+      "type_name": ""
+    },
+    "ownerid": {
+      "number": 3,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "ownertype": {
+      "number": 4,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "equippos": {
+      "number": 5,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "id": {
+      "number": 6,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "exceltypeid": {
+      "number": 7,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "enhancegrade": {
+      "number": 8,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "duetime": {
+      "number": 9,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "spendiron": {
+      "number": 10,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "perfectpower": {
+      "number": 11,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "whitename1": {
+      "number": 12,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "whitename2": {
+      "number": 13,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "whitevalue1": {
+      "number": 14,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "whitevalue2": {
+      "number": 15,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "bluename1": {
+      "number": 16,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "bluevalue1": {
+      "number": 17,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "bluename2": {
+      "number": 18,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "bluevalue2": {
+      "number": 19,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "greenattrs": {
+      "number": 20,
+      "type": 11,
+      "label": 3,
+      "type_name": ".pto.GameData.SeBeItemAttr"
+    },
+    "coinremainrecasttimes": {
+      "number": 21,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "belongtomainrole": {
+      "number": 22,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "spendtonglingyu": {
+      "number": 23,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "SeBeItemInfo": {
+    "changetype": {
+      "number": 1,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "dirtyflag": {
+      "number": 2,
+      "type": 4,
+      "label": 1,
+      "type_name": ""
+    },
+    "ownerid": {
+      "number": 3,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "ownertype": {
+      "number": 4,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "id": {
+      "number": 5,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "exceltypeid": {
+      "number": 6,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "num": {
+      "number": 7,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "duetime": {
+      "number": 8,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "SeBeItemManager": {
+    "maxid": {
+      "number": 1,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "akInfos": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".pto.GameData.SeBeItemManager.AkInfosEntry"
+    },
+    "akEquipInfos": {
+      "number": 3,
+      "type": 11,
+      "label": 3,
+      "type_name": ".pto.GameData.SeBeItemManager.AkEquipInfosEntry"
+    }
+  },
+  "SeBeWeekRoundItem": {
+    "gameOverFlag": {
+      "number": 1,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "weekOutMeridiansExp": {
+      "number": 2,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "weekOutBabyid": {
+      "number": 3,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "akItems": {
+      "number": 4,
+      "type": 13,
+      "label": 3,
+      "type_name": ""
+    },
+    "akWeekEndData": {
+      "number": 5,
+      "type": 11,
+      "label": 3,
+      "type_name": ".pto.GameData.WeekEndData"
+    },
+    "akRewardItems": {
+      "number": 6,
+      "type": 11,
+      "label": 3,
+      "type_name": ".pto.GameData.SeBeWeekRoundItem.AkRewardItemsEntry"
+    }
+  },
+  "SePlatTeamInfo": {
+    "playerid": {
+      "number": 1,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "mainroleid": {
+      "number": 2,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "teammates": {
+      "number": 3,
+      "type": 13,
+      "label": 3,
+      "type_name": ""
+    },
+    "instroles": {
+      "number": 4,
+      "type": 11,
+      "label": 3,
+      "type_name": ".pto.GameData.SePlatTeamInfo.InstrolesEntry"
+    },
+    "playername": {
+      "number": 5,
+      "type": 12,
+      "label": 1,
+      "type_name": ""
+    },
+    "mainrolename": {
+      "number": 6,
+      "type": 12,
+      "label": 1,
+      "type_name": ""
+    },
+    "savetime": {
+      "number": 7,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "scriptid": {
+      "number": 8,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "martials": {
+      "number": 9,
+      "type": 11,
+      "label": 3,
+      "type_name": ".pto.GameData.SePlatTeamInfo.MartialsEntry"
+    },
+    "items": {
+      "number": 10,
+      "type": 11,
+      "label": 3,
+      "type_name": ".pto.GameData.SePlatTeamInfo.ItemsEntry"
+    },
+    "gifts": {
+      "number": 11,
+      "type": 11,
+      "label": 3,
+      "type_name": ".pto.GameData.SePlatTeamInfo.GiftsEntry"
+    },
+    "dynamicattrs": {
+      "number": 12,
+      "type": 11,
+      "label": 3,
+      "type_name": ".pto.GameData.SePlatTeamInfo.DynamicattrsEntry"
+    },
+    "pets": {
+      "number": 13,
+      "type": 11,
+      "label": 3,
+      "type_name": ".pto.GameData.SePlatTeamInfo.PetsEntry"
+    },
+    "weekround": {
+      "number": 14,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    },
+    "meridianinfo": {
+      "number": 15,
+      "type": 11,
+      "label": 3,
+      "type_name": ".pto.GameData.SePlatTeamInfo.MeridianinfoEntry"
+    },
+    "mainrolemodel": {
+      "number": 16,
+      "type": 13,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "SePlatEmbattleInfo": {
+    "single": {
+      "number": 1,
+      "type": 11,
+      "label": 1,
+      "type_name": ".pto.GameData.RoleEmbattleData"
+    },
+    "team": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".pto.GameData.RoleEmbattleData"
+    }
+  },
+  "StringPlatTeamKeys": {
+    "allkeys": {
+      "number": 1,
+      "type": 9,
+      "label": 3,
+      "type_name": ""
+    }
+  },
+  "RoleAttr": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Strength": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Agility": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Power": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Constitution": {
+      "number": 5,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Energy": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Comprehension": {
+      "number": 7,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "FistMastery": {
+      "number": 8,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "KnifeMastery": {
+      "number": 9,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "LegMastery": {
+      "number": 10,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "SwordMastery": {
+      "number": 11,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "SoulMastery": {
+      "number": 12,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "HealingMastery": {
+      "number": 13,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "StickMastery": {
+      "number": 14,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NeedleMastery": {
+      "number": 15,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "HP": {
+      "number": 16,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MP": {
+      "number": 17,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Speed": {
+      "number": 18,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "HittingPer": {
+      "number": 19,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "CritsPer": {
+      "number": 20,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "CritsFactor": {
+      "number": 21,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MartialATK": {
+      "number": 22,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Defense": {
+      "number": 23,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "QuanFaATK": {
+      "number": 24,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DaoFaATK": {
+      "number": 25,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TuiFaATK": {
+      "number": 26,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "JianFaATK": {
+      "number": 27,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NeiGongATK": {
+      "number": 28,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "YiShuATK": {
+      "number": 29,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "QiMenATK": {
+      "number": 30,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "AnQiATK": {
+      "number": 31,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "HPRecover": {
+      "number": 32,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MPRecover": {
+      "number": 33,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MingZhongZhi": {
+      "number": 34,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ShanBiZhi": {
+      "number": 35,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "BaoJiZhi": {
+      "number": 36,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "BaoJiDiKang": {
+      "number": 37,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "LianJiZhi": {
+      "number": 38,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "LianJiDiKang": {
+      "number": 39,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "FanJiZhi": {
+      "number": 40,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "PoZhaoZhi": {
+      "number": 41,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "BaoShangZhi": {
+      "number": 42,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MissPer": {
+      "number": 43,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "CritsResistPer": {
+      "number": 44,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ThornsPer": {
+      "number": 45,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ComboPer": {
+      "number": 46,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DoubleHitPer": {
+      "number": 47,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "AtkResistPer": {
+      "number": 48,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "HitBackPer": {
+      "number": 49,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ReboundRate": {
+      "number": 50,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "BrokenDefPer": {
+      "number": 51,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MultipleHit": {
+      "number": 52,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MoveScope": {
+      "number": 53,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "KungfuLimit": {
+      "number": 54,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "RoleAttrArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RoleAttr"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "MartialItem": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DesID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Rank": {
+      "number": 3,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    },
+    "DepartEnum": {
+      "number": 4,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.DepartEnumType"
+    },
+    "ItemFeature": {
+      "number": 5,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.MartialItemFeature"
+    },
+    "ItemType": {
+      "number": 6,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MartialItemType"
+    },
+    "CondID": {
+      "number": 7,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EffectEnum1": {
+      "number": 8,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MartialItemEffect"
+    },
+    "AttrEnum1": {
+      "number": 9,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AttrType"
+    },
+    "Grade1": {
+      "number": 10,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.Grade"
+    },
+    "SkillID1": {
+      "number": 11,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Effect1Value": {
+      "number": 12,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "MartialFilter1": {
+      "number": 13,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EffectEnum2": {
+      "number": 14,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MartialItemEffect"
+    },
+    "AttrEnum2": {
+      "number": 15,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AttrType"
+    },
+    "Grade2": {
+      "number": 16,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.Grade"
+    },
+    "SkillID2": {
+      "number": 17,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Effect2Value": {
+      "number": 18,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "MartialFilter2": {
+      "number": 19,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Flags": {
+      "number": 20,
+      "type": 9,
+      "label": 3,
+      "type_name": ""
+    }
+  },
+  "Skill": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NameID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DescID": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Type": {
+      "number": 4,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SkillType"
+    },
+    "Rank": {
+      "number": 5,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    },
+    "ClanID": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Icon": {
+      "number": 7,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "SkillRange": {
+      "number": 8,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TargetType": {
+      "number": 9,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SkillTargetType"
+    },
+    "Cost": {
+      "number": 10,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "CostLvl": {
+      "number": 11,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NoTarget": {
+      "number": 12,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "SkillTriggers": {
+      "number": 13,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.SkillTriggerInfo"
+    },
+    "Penetrate": {
+      "number": 14,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Catapult": {
+      "number": 15,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MartialItemID": {
+      "number": 16,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "SurperType": {
+      "number": 17,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "AddType": {
+      "number": 18,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "AddLevel": {
+      "number": 19,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ManAudio": {
+      "number": 20,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "WomanAudio": {
+      "number": 21,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ShowPerformance": {
+      "number": 22,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "MascCoef": {
+      "number": 23,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "FemiCoef": {
+      "number": 24,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MPBaseCostPercent": {
+      "number": 25,
+      "type": 2,
+      "label": 1,
+      "type_name": ""
+    },
+    "MPCostPercentLevel": {
+      "number": 26,
+      "type": 2,
+      "label": 1,
+      "type_name": ""
+    },
+    "AlowEdit": {
+      "number": 27,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "SkillEffect": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Name": {
+      "number": 2,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SkillEffectDescription"
+    },
+    "EventArg1": {
+      "number": 3,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "EventArg2": {
+      "number": 4,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "EventArg3": {
+      "number": 5,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "EventArg4": {
+      "number": 6,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "EventArg5": {
+      "number": 7,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "EventArg6": {
+      "number": 8,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "EventArg7": {
+      "number": 9,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "EventArg8": {
+      "number": 10,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "EventArg9": {
+      "number": 11,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "EventArg10": {
+      "number": 12,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "EventArg11": {
+      "number": 13,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "EventArg12": {
+      "number": 14,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "EventArg13": {
+      "number": 15,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "ArgCount": {
+      "number": 16,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Role": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RoleID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "IndexNum": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Index": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NameID": {
+      "number": 5,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Prefix": {
+      "number": 6,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Postfix": {
+      "number": 7,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Rank": {
+      "number": 8,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    },
+    "TitleID": {
+      "number": 9,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "IntroduceID": {
+      "number": 10,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Sex": {
+      "number": 11,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SexType"
+    },
+    "Status": {
+      "number": 12,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.StatusType"
+    },
+    "Level": {
+      "number": 13,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Physique": {
+      "number": 14,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "IsWishline": {
+      "number": 15,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ClanTemplate": {
+      "number": 16,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TypeTemplate": {
+      "number": 17,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RoleTypeTemplate"
+    },
+    "Clan": {
+      "number": 18,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Kungfu": {
+      "number": 19,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "KungfuLevel": {
+      "number": 20,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "AttributeID": {
+      "number": 21,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Gift": {
+      "number": 22,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "Weapon": {
+      "number": 23,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Artifacts": {
+      "number": 24,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Clothes": {
+      "number": 25,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Shoe": {
+      "number": 26,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Ornaments": {
+      "number": 27,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "KungfuBook": {
+      "number": 28,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Horse": {
+      "number": 29,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Disposition": {
+      "number": 30,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Favor": {
+      "number": 31,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.FavorType"
+    },
+    "Bag": {
+      "number": 32,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "ArtID": {
+      "number": 33,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "WishQuestID": {
+      "number": 34,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "EvoInitCity": {
+      "number": 35,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EvoMove": {
+      "number": 36,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "EvoKill": {
+      "number": 37,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "EvoCondi": {
+      "number": 38,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EvoType": {
+      "number": 39,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.NpcEvoluteType"
+    },
+    "RelationID": {
+      "number": 40,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "RelationDisposition": {
+      "number": 41,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "RelationDescID": {
+      "number": 42,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "ForbbidLeaveTag": {
+      "number": 43,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TeamCondition": {
+      "number": 44,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ExtraGiftPool": {
+      "number": 45,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MarryRole": {
+      "number": 46,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "BroAndSisRole": {
+      "number": 47,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "Father": {
+      "number": 48,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Mother": {
+      "number": 49,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Children": {
+      "number": 50,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "BabyTemplate": {
+      "number": 51,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "hurtSound": {
+      "number": 52,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "helloSound": {
+      "number": 53,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "KillCond": {
+      "number": 54,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ConditionType"
+    },
+    "Impression": {
+      "number": 55,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "dieSound": {
+      "number": 56,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "GenNum": {
+      "number": 57,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "BattleAudio": {
+      "number": 58,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NoRandom": {
+      "number": 59,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "SurnameID": {
+      "number": 60,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "GivennameID": {
+      "number": 61,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "SpecialIntroduce": {
+      "number": 62,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "SuperImposed": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "BuffList": {
+      "number": 2,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "SuperType": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "AddType": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "InitValue": {
+      "number": 5,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Condition": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "CondType": {
+      "number": 2,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ConditionType"
+    },
+    "CondArg1": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CondArg2": {
+      "number": 4,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CondArg3": {
+      "number": 5,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CondArg4": {
+      "number": 6,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CondArg5": {
+      "number": 7,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CondArg6": {
+      "number": 8,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CondArg7": {
+      "number": 9,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CondArg8": {
+      "number": 10,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CondArg9": {
+      "number": 11,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CondArg10": {
+      "number": 12,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CondArg11": {
+      "number": 13,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CondArg12": {
+      "number": 14,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CondArg13": {
+      "number": 15,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CondArg14": {
+      "number": 16,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CondArg15": {
+      "number": 17,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CondArg16": {
+      "number": 18,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "MartialFilter": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MartialID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ClanID": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MartialType": {
+      "number": 4,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.DepartEnumType"
+    },
+    "Rank": {
+      "number": 5,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    },
+    "Toxic": {
+      "number": 6,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "Multistage": {
+      "number": 7,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "AutoMartialType": {
+      "number": 8,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    }
+  },
+  "KungfuBase": {
+    "AttrType": {
+      "number": 1,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AttrType"
+    },
+    "KfType": {
+      "number": 2,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.DepartEnumType"
+    },
+    "IsRoleAttr": {
+      "number": 3,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "IsGrowup": {
+      "number": 4,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "RankDatas": {
+      "number": 5,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    }
+  },
+  "MatGrowUPAttrGrade": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Grade": {
+      "number": 2,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.Grade"
+    },
+    "Factor": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "GrowFactor": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "AoYi": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "AoYiID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MartialList": {
+      "number": 3,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "GiftList": {
+      "number": 4,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "LVList": {
+      "number": 5,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "EffectiveRound": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Range": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NameID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "PosXs": {
+      "number": 3,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "PosYs": {
+      "number": 4,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    }
+  },
+  "MartialRange": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Name": {
+      "number": 2,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CasterRangeIDs": {
+      "number": 3,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "AttackRangeIDs": {
+      "number": 4,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "IsOnlyShowCasterRange": {
+      "number": 5,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "CasterRangeIDs2": {
+      "number": 6,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "AttackRangeIDs2": {
+      "number": 7,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    }
+  },
+  "RoleModel": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "PictureID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ModelID": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "SexType": {
+      "number": 4,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SexType"
+    },
+    "ModelScale": {
+      "number": 5,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.Data_Scale"
+    },
+    "InitWeapom": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "WeaponPos": {
+      "number": 7,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.Data_Offset"
+    },
+    "WeaponScale": {
+      "number": 8,
+      "type": 11,
+      "label": 1,
+      "type_name": ".TableDR.Data_Scale"
+    },
+    "HelloSound": {
+      "number": 9,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "OpenAudio": {
+      "number": 10,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Drawing": {
+      "number": 11,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Head": {
+      "number": 12,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Model": {
+      "number": 13,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Texture": {
+      "number": 14,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Hue": {
+      "number": 15,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "BattleAudio": {
+      "number": 16,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "RoleModelArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RoleModel"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "NpcEvolute": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RoleID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "CityID": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "IsMove": {
+      "number": 4,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "EvoluteConditionID": {
+      "number": 5,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "IsEvolute": {
+      "number": 6,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "IsAllowKilled": {
+      "number": 7,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "IsAllowBigmapMove": {
+      "number": 8,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    }
+  },
+  "NpcEvoluteArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.NpcEvolute"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "City": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NameID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ShowStage": {
+      "number": 3,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.CityStage"
+    },
+    "CityIconImage": {
+      "number": 4,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "CityInfoIcon": {
+      "number": 5,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "BigmapPosX": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "BigmapPosY": {
+      "number": 7,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NameUIOffsetX": {
+      "number": 8,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NameUIOffsetY": {
+      "number": 9,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "InitDispo": {
+      "number": 10,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EnterMapID": {
+      "number": 11,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NearbyCityIDList": {
+      "number": 12,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "StaticWeatherID": {
+      "number": 13,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ScriptID": {
+      "number": 14,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "DefaultChatIDList": {
+      "number": 15,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "HideMapIDList": {
+      "number": 16,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "HideMazeIDList": {
+      "number": 17,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "TileID": {
+      "number": 18,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TileImage": {
+      "number": 19,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "CityArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.City"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Map": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NameID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "BuildingNameID": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Prefix": {
+      "number": 4,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Postfix": {
+      "number": 5,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "SceneType": {
+      "number": 6,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MapSceneType"
+    },
+    "ChildIDList": {
+      "number": 7,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "MazeID": {
+      "number": 8,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "SceneEffect": {
+      "number": 9,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "PasserCount": {
+      "number": 10,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "SceneBottomImg": {
+      "number": 11,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "ClanID": {
+      "number": 12,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "IsUseBroadLayer": {
+      "number": 13,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "BuildingType": {
+      "number": 14,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.MapBuildingType"
+    },
+    "SceneImg": {
+      "number": 15,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "BuildingImg": {
+      "number": 16,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "AtlasName": {
+      "number": 17,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "BuildingSize": {
+      "number": 18,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "AdvLootIDList": {
+      "number": 19,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "CanEvolutionRoleStand": {
+      "number": 20,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "MainRoleHome": {
+      "number": 21,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "BGMusic": {
+      "number": 22,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EvnMusic": {
+      "number": 23,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "ClickSound": {
+      "number": 24,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "PlotIDList": {
+      "number": 25,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "ShowCondition": {
+      "number": 26,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ReturnConditionID": {
+      "number": 27,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "IsReturnLastPos": {
+      "number": 28,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "IsForbidShowCityRoleList": {
+      "number": 29,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "AlowEdit": {
+      "number": 30,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    }
+  },
+  "MapArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.Map"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Task": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "OldBaseID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NameID": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Type": {
+      "number": 4,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TaskType"
+    },
+    "SpecialFlag": {
+      "number": 5,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.TaskFlag"
+    },
+    "Level": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Difficulty": {
+      "number": 7,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DynamicLevel": {
+      "number": 8,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "DynamicDifficulty": {
+      "number": 9,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "TaskNormalRewards": {
+      "number": 10,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.TaskNormalRewardType"
+    },
+    "TaskRewards": {
+      "number": 11,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "TaskBranchRewards": {
+      "number": 12,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "Shane": {
+      "number": 13,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RoleDispositionRewardList": {
+      "number": 14,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RoleValuePair"
+    },
+    "ClanDispositionReward": {
+      "number": 15,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.ClanValuePair"
+    },
+    "CityDispositionRewardList": {
+      "number": 16,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.CityValuePair"
+    },
+    "RoleCardReward": {
+      "number": 17,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "TaskDescID": {
+      "number": 18,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RootState": {
+      "number": 19,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RegainTalkID": {
+      "number": 20,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RegainStoryID": {
+      "number": 21,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NextTasks": {
+      "number": 22,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TaskGroup": {
+      "number": 23,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "TaskArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.Task"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "TaskEdge": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TaskStateName": {
+      "number": 2,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "TaskEdgeName": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "StateID": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Type": {
+      "number": 5,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TaskEdgeType"
+    },
+    "TaskEventID": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DyTaskEvent": {
+      "number": 7,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.DyTaskEventType"
+    },
+    "ConditionID": {
+      "number": 8,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DyCondition": {
+      "number": 9,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.DyConditonType"
+    },
+    "Timer": {
+      "number": 10,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DescIDs": {
+      "number": 11,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "DescStates": {
+      "number": 12,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.TaskDescStatesType"
+    },
+    "EndingDescID": {
+      "number": 13,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ConditonSatisfyStoryID": {
+      "number": 14,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ConditonSatisfyCallbackIDs": {
+      "number": 15,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "ConditonSatisfyJumpStateID": {
+      "number": 16,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ConditonNotSatisfyStoryID": {
+      "number": 17,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ConditonNotSatisfyCallbackIDs": {
+      "number": 18,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "ConditonNotSatisfyJumpStateID": {
+      "number": 19,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EdgeFlags": {
+      "number": 20,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.EdgeFlagType"
+    },
+    "EdgeOrder": {
+      "number": 21,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "HideProgressDescIDList": {
+      "number": 22,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    }
+  },
+  "TaskEdgeArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.TaskEdge"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "TaskEvent": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Event": {
+      "number": 2,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.Event"
+    },
+    "EventArg1": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventArg2": {
+      "number": 4,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventArg3": {
+      "number": 5,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventArg4": {
+      "number": 6,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventArg5": {
+      "number": 7,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventArg6": {
+      "number": 8,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventArg7": {
+      "number": 9,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventArg8": {
+      "number": 10,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventArg9": {
+      "number": 11,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventArg10": {
+      "number": 12,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventArg11": {
+      "number": 13,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventArg12": {
+      "number": 14,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventArg13": {
+      "number": 15,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventArg14": {
+      "number": 16,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventArg15": {
+      "number": 17,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventArg16": {
+      "number": 18,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventArgSurplus": {
+      "number": 19,
+      "type": 9,
+      "label": 3,
+      "type_name": ""
+    },
+    "EventPriority": {
+      "number": 20,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EventGroup": {
+      "number": 21,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "IsCoverSystemFunction": {
+      "number": 22,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    }
+  },
+  "TaskEventArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.TaskEvent"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Behavior": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Type": {
+      "number": 2,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.BehaviorType"
+    },
+    "EffectSubType": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Arg1": {
+      "number": 4,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Arg2": {
+      "number": 5,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Arg3": {
+      "number": 6,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Arg4": {
+      "number": 7,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Arg5": {
+      "number": 8,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Arg6": {
+      "number": 9,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Arg7": {
+      "number": 10,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Arg8": {
+      "number": 11,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Arg9": {
+      "number": 12,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Arg10": {
+      "number": 13,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Arg11": {
+      "number": 14,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Arg12": {
+      "number": 15,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Arg13": {
+      "number": 16,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Arg14": {
+      "number": 17,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Arg15": {
+      "number": 18,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Arg16": {
+      "number": 19,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "BehaviorArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.Behavior"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Story": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NameID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "StoryName": {
+      "number": 3,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.StoryName"
+    },
+    "SortIndex": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DescID": {
+      "number": 5,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TimeID": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "IsPublic": {
+      "number": 7,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "UnlockType": {
+      "number": 8,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.StoryUnlockType"
+    },
+    "NeedAchieve": {
+      "number": 9,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "UnlockCost": {
+      "number": 10,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "UnlockID": {
+      "number": 11,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "CG": {
+      "number": 12,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "TeamOut": {
+      "number": 13,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "StartSystemTaskList": {
+      "number": 14,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "StartStoryTaskID": {
+      "number": 15,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "FirstStoryReward": {
+      "number": 16,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "FirstStoryRewardNum": {
+      "number": 17,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "StoryReward": {
+      "number": 18,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "StoryRewardNum": {
+      "number": 19,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "StoryRewardShow": {
+      "number": 20,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "StartTask": {
+      "number": 21,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "LuckeyCost": {
+      "number": 22,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "IsForbidShowCityRoleList": {
+      "number": 23,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "bInitStart": {
+      "number": 24,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "bAllowStorageIn": {
+      "number": 25,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "bAllowShareTreasureMap": {
+      "number": 26,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "IsDreamStory": {
+      "number": 27,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "DreamStoryRole": {
+      "number": 28,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "OpenMartialStrong": {
+      "number": 29,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "OpenMakeSecret": {
+      "number": 30,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "WeekTakeOutLimit": {
+      "number": 31,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "SpecialCreateRole": {
+      "number": 32,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DifficultMin": {
+      "number": 33,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DifficultMax": {
+      "number": 34,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DifficultUnlock": {
+      "number": 35,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "Merdians": {
+      "number": 36,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    }
+  },
+  "StoryArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.Story"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "ConditionArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.Condition"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "RoleTitle": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TitleID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Name": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "TitleAttr": {
+      "number": 4,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AttrType"
+    },
+    "Value": {
+      "number": 5,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TitleRank": {
+      "number": 6,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    },
+    "IsTakenIn": {
+      "number": 7,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "RankListID": {
+      "number": 8,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "RoleTitleArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RoleTitle"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "RoleWishQuest": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "sortOrder": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Prefix": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "NameID": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Name": {
+      "number": 5,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "DescID": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "FreeIsInherit": {
+      "number": 7,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "StoryIsInherit": {
+      "number": 8,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "LeadIsInherit": {
+      "number": 9,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "ForbidInheritStoryIDs": {
+      "number": 10,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "ForbidUnlockStoryIDs": {
+      "number": 11,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "RewardID": {
+      "number": 12,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "TaskID": {
+      "number": 13,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TaskOpenTag": {
+      "number": 14,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "RoleWishQuestArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RoleWishQuest"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Clan": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ClanName": {
+      "number": 2,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "ClanType": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "NameID": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Type": {
+      "number": 5,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ClanType"
+    },
+    "ClanLock": {
+      "number": 6,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.ClanLock"
+    },
+    "DescID": {
+      "number": 7,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Location": {
+      "number": 8,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "IconPath": {
+      "number": 9,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "SmallIconPath": {
+      "number": 10,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "Fist": {
+      "number": 11,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "Knife": {
+      "number": 12,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "Leg": {
+      "number": 13,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "Sword": {
+      "number": 14,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "Stick": {
+      "number": 15,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "Dart": {
+      "number": 16,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "Magic": {
+      "number": 17,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "DiyName1": {
+      "number": 18,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "DiyKungfu1": {
+      "number": 19,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "DiyName2": {
+      "number": 20,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "DiyKungfu2": {
+      "number": 21,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "BasicMartial": {
+      "number": 22,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "HighMartial": {
+      "number": 23,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "BestMartial": {
+      "number": 24,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "SpecialMartial": {
+      "number": 25,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "SpecialMartialVideo": {
+      "number": 26,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "Teacher": {
+      "number": 27,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MartialType": {
+      "number": 28,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.DepartEnumType"
+    },
+    "MartialFeatureID": {
+      "number": 29,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "MartialDescID": {
+      "number": 30,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "IsEvolution": {
+      "number": 31,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "ClanGiftID": {
+      "number": 32,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "SpecialGiftID": {
+      "number": 33,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "SpecialRoleAttr": {
+      "number": 34,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.AttrType"
+    },
+    "AttrValue": {
+      "number": 35,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "AttrPer": {
+      "number": 36,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "AttrLevel": {
+      "number": 37,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "ClanTreasure": {
+      "number": 38,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ClanTipsID": {
+      "number": 39,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Rank": {
+      "number": 40,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RankType"
+    },
+    "ClanAbbreviation": {
+      "number": 41,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "UnlockCondDesc": {
+      "number": 42,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MaxTiGuanLingCount": {
+      "number": 43,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DuleCallHelper": {
+      "number": 44,
+      "type": 8,
+      "label": 1,
+      "type_name": ""
+    },
+    "StoryIDs": {
+      "number": 45,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    }
+  },
+  "ClanArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.Clan"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Buff": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NameID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DescID": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Icon": {
+      "number": 4,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "BuffFeature": {
+      "number": 5,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.BuffFeatureType"
+    },
+    "MaxLayer": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RoundNum": {
+      "number": 7,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "AutoDecLayer": {
+      "number": 8,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "SkillTriggers": {
+      "number": 9,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.SkillTriggerInfo"
+    },
+    "priority": {
+      "number": 10,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "TargetType": {
+      "number": 11,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.SkillTargetType"
+    },
+    "SimpleLog": {
+      "number": 12,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    }
+  },
+  "BuffArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.Buff"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "DisguiseItem": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "NameID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Model": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DisguiseTypeList": {
+      "number": 4,
+      "type": 14,
+      "label": 3,
+      "type_name": ".TableDR.DisguiseType"
+    },
+    "Lock": {
+      "number": 5,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    }
+  },
+  "DisguiseItemArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.DisguiseItem"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "DisguiseConfig": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Task": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Duration": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "DisguiseConfigArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.DisguiseConfig"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "MartialBreakRemainsConfig": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MartialRank": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RemainsQuality": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MartialLevel": {
+      "number": 4,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "ConsumeNum": {
+      "number": 5,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    }
+  },
+  "RoleCard": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RoleID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Level": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EffectEnum": {
+      "number": 4,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.RoleCardEffect"
+    },
+    "EffectValue1": {
+      "number": 5,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "EffectValue2": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "RoleCardArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RoleCard"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "RoleWishTree": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DescID": {
+      "number": 2,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "GiftIDs": {
+      "number": 3,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "AllGiftIDs": {
+      "number": 4,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "RoleTypeID": {
+      "number": 5,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "RoleWishTreeArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RoleWishTree"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "RolePiece": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Level": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Piece": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "AttrAdd": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "RolePieceArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RolePiece"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Shop": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "BusinessManID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ItemClass": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    },
+    "ItemID": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "MaxCount": {
+      "number": 5,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DiscountID": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "IsReplenish": {
+      "number": 7,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.TBoolean"
+    },
+    "BuyPrice": {
+      "number": 8,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ShowCondition": {
+      "number": 9,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "BuyCity": {
+      "number": 10,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "BuyInt": {
+      "number": 11,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "Difficulty": {
+      "number": 12,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ShowMoney": {
+      "number": 13,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ItemSortID": {
+      "number": 14,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "ShopArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.Shop"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "Businessman": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RoleID": {
+      "number": 2,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "PlanID": {
+      "number": 3,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "ExPlanID": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "BusinessManType": {
+      "number": 5,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "UseMoney": {
+      "number": 6,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "DiscountTips": {
+      "number": 7,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "BusinessmanArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.Businessman"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  }
+}

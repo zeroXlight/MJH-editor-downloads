@@ -1,0 +1,2913 @@
+{
+  "704": {
+    "NameID": 610035,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 704,
+    "ArtID": 1013,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 704,
+    "BuffID": 0,
+    "Rank": 5,
+    "InitialNum": 0,
+    "cardItem1": 700,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 3000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 1200,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 5,
+        "BaseValue": 20,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 8,
+        "BaseValue": 20,
+        "PetBuffType": 130,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 3000
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "900": {
+    "NameID": 610042,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 954,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 900,
+    "Chain": {
+      "1": 901,
+      "2": 902,
+      "3": 903,
+      "4": 904
+    },
+    "BuffID": 0,
+    "Rank": 2,
+    "InitialNum": 0,
+    "cardItem1": 900,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 800,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 300,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "901": {
+    "NameID": 610043,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 956,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 901,
+    "BuffID": 0,
+    "Rank": 3,
+    "InitialNum": 0,
+    "cardItem1": 900,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 400,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 6,
+        "BaseValue": 28,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 14,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "902": {
+    "NameID": 610044,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 902,
+    "ArtID": 957,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 902,
+    "BuffID": 0,
+    "Rank": 4,
+    "InitialNum": 0,
+    "cardItem1": 900,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1200,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 500,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 800,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 400,
+        "AttrType": 305,
+        "Integer": 3
+      },
+      "3": {
+        "PetAttrType": 8,
+        "BaseValue": 20,
+        "PetBuffType": 127,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 2000
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "903": {
+    "NameID": 610045,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 903,
+    "ArtID": 955,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 903,
+    "BuffID": 0,
+    "Rank": 6,
+    "InitialNum": 0,
+    "cardItem1": 900,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 4000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 1500,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 1500,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 750,
+        "AttrType": 344,
+        "Integer": 4
+      },
+      "3": {
+        "PetAttrType": 8,
+        "BaseValue": 20,
+        "PetBuffType": 128,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 4000
+      },
+      "4": {
+        "PetAttrType": 4,
+        "BaseValue": 500,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 7,
+        "GrowValue": 300,
+        "AttrType": 343,
+        "Integer": 0
+      }
+    }
+  },
+  "200": {
+    "NameID": 610006,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 964,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 200,
+    "Chain": {
+      "1": 201,
+      "2": 202,
+      "3": 203,
+      "4": 204
+    },
+    "BuffID": 0,
+    "Rank": 2,
+    "InitialNum": 0,
+    "cardItem1": 200,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1500,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 600,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "201": {
+    "NameID": 610007,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 965,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 201,
+    "BuffID": 0,
+    "Rank": 3,
+    "InitialNum": 0,
+    "cardItem1": 200,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 2000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 800,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 100,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 50,
+        "AttrType": 101,
+        "Integer": 63
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "202": {
+    "NameID": 610008,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 202,
+    "ArtID": 967,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 202,
+    "BuffID": 0,
+    "Rank": 5,
+    "InitialNum": 0,
+    "cardItem1": 200,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 3000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 1200,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 1000,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 500,
+        "AttrType": 344,
+        "Integer": 10
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 137,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 3000
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "203": {
+    "NameID": 610009,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 203,
+    "ArtID": 974,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 203,
+    "BuffID": 0,
+    "Rank": 7,
+    "InitialNum": 0,
+    "cardItem1": 200,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 5000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 2000,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 2000,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 1000,
+        "AttrType": 344,
+        "Integer": 12
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 137,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 5000
+      },
+      "4": {
+        "PetAttrType": 4,
+        "BaseValue": 1000,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 2,
+        "GrowValue": 500,
+        "AttrType": 343,
+        "Integer": 0
+      }
+    }
+  },
+  "204": {
+    "NameID": 610010,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 204,
+    "ArtID": 966,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 204,
+    "BuffID": 0,
+    "Rank": 3,
+    "InitialNum": 0,
+    "cardItem1": 200,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 400,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 700,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 350,
+        "AttrType": 344,
+        "Integer": 8
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "400": {
+    "NameID": 610016,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 928,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 400,
+    "Chain": {
+      "1": 401,
+      "2": 402,
+      "3": 403,
+      "4": 404
+    },
+    "BuffID": 0,
+    "Rank": 3,
+    "InitialNum": 0,
+    "cardItem1": 400,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 2000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 800,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "401": {
+    "NameID": 610017,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 929,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 401,
+    "BuffID": 0,
+    "Rank": 4,
+    "InitialNum": 0,
+    "cardItem1": 400,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 2500,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 1000,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 150,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 75,
+        "AttrType": 32,
+        "Integer": 1
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 136,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 2000
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "402": {
+    "NameID": 610018,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 402,
+    "ArtID": 930,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 402,
+    "BuffID": 0,
+    "Rank": 6,
+    "InitialNum": 0,
+    "cardItem1": 400,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 4000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 1500,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 300,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 150,
+        "AttrType": 101,
+        "Integer": 63
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 140,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 4000
+      },
+      "4": {
+        "PetAttrType": 4,
+        "BaseValue": 500,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 5,
+        "GrowValue": 300,
+        "AttrType": 343,
+        "Integer": 0
+      }
+    }
+  },
+  "403": {
+    "NameID": 610019,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 403,
+    "ArtID": 931,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 403,
+    "BuffID": 0,
+    "Rank": 4,
+    "InitialNum": 0,
+    "cardItem1": 400,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1200,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 500,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 800,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 400,
+        "AttrType": 344,
+        "Integer": 12
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 139,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 2000
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "404": {
+    "NameID": 610020,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 404,
+    "ArtID": 1014,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 404,
+    "BuffID": 0,
+    "Rank": 5,
+    "InitialNum": 0,
+    "cardItem1": 400,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1500,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 600,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 1000,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 500,
+        "AttrType": 344,
+        "Integer": 15
+      },
+      "3": {
+        "PetAttrType": 8,
+        "BaseValue": 20,
+        "PetBuffType": 129,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 3000
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "600": {
+    "NameID": 610026,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 920,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 600,
+    "Chain": {
+      "1": 601,
+      "2": 602,
+      "3": 603,
+      "4": 604
+    },
+    "BuffID": 0,
+    "Rank": 1,
+    "InitialNum": 0,
+    "cardItem1": 600,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 500,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 200,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "601": {
+    "NameID": 610027,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 921,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 601,
+    "BuffID": 0,
+    "Rank": 2,
+    "InitialNum": 0,
+    "cardItem1": 600,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 800,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 300,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 7,
+        "BaseValue": 60,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 30,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "602": {
+    "NameID": 610028,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 602,
+    "ArtID": 922,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 602,
+    "BuffID": 0,
+    "Rank": 5,
+    "InitialNum": 0,
+    "cardItem1": 600,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1500,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 600,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 1000,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 500,
+        "AttrType": 344,
+        "Integer": 15
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 140,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 3000
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "603": {
+    "NameID": 610029,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 603,
+    "ArtID": 1009,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 603,
+    "BuffID": 0,
+    "Rank": 3,
+    "InitialNum": 0,
+    "cardItem1": 600,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 2000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 800,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 700,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 350,
+        "AttrType": 344,
+        "Integer": 63
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "604": {
+    "NameID": 610030,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 604,
+    "ArtID": 1010,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 604,
+    "BuffID": 0,
+    "Rank": 4,
+    "InitialNum": 0,
+    "cardItem1": 600,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 2500,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 1000,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 800,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 400,
+        "AttrType": 344,
+        "Integer": 2
+      },
+      "3": {
+        "PetAttrType": 8,
+        "BaseValue": 20,
+        "PetBuffType": 129,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 2000
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "800": {
+    "NameID": 610036,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 916,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 800,
+    "Chain": {
+      "1": 801,
+      "2": 802,
+      "3": 803,
+      "4": 804,
+      "5": 805
+    },
+    "BuffID": 0,
+    "Rank": 1,
+    "InitialNum": 0,
+    "cardItem1": 800,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 500,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 200,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "801": {
+    "NameID": 610037,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 917,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 801,
+    "BuffID": 0,
+    "Rank": 2,
+    "InitialNum": 0,
+    "cardItem1": 800,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 800,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 300,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 5,
+        "BaseValue": 12,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 6,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "802": {
+    "NameID": 610038,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 802,
+    "ArtID": 918,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 802,
+    "BuffID": 0,
+    "Rank": 4,
+    "InitialNum": 0,
+    "cardItem1": 800,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1200,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 500,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 150,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 75,
+        "AttrType": 100,
+        "Integer": 12
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 140,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 2000
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "803": {
+    "NameID": 610039,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 803,
+    "ArtID": 919,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 803,
+    "BuffID": 0,
+    "Rank": 2,
+    "InitialNum": 0,
+    "cardItem1": 800,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1500,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 600,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 600,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 300,
+        "AttrType": 344,
+        "Integer": 2
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "100": {
+    "NameID": 610001,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 932,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 100,
+    "Chain": {
+      "1": 101,
+      "2": 102,
+      "3": 103,
+      "4": 104
+    },
+    "BuffID": 0,
+    "Rank": 1,
+    "InitialNum": 0,
+    "cardItem1": 100,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 500,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "101": {
+    "NameID": 610002,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 933,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 101,
+    "BuffID": 0,
+    "Rank": 2,
+    "InitialNum": 0,
+    "cardItem1": 100,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1500,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 600,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 600,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 300,
+        "AttrType": 305,
+        "Integer": 3
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "102": {
+    "NameID": 610003,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 102,
+    "ArtID": 935,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 102,
+    "BuffID": 0,
+    "Rank": 5,
+    "InitialNum": 0,
+    "cardItem1": 100,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 3000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 1200,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 200,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 100,
+        "AttrType": 31,
+        "Integer": 11
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 141,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 3000
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "103": {
+    "NameID": 610004,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 103,
+    "ArtID": 934,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 103,
+    "BuffID": 0,
+    "Rank": 6,
+    "InitialNum": 0,
+    "cardItem1": 100,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 4000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 1500,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 1500,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 750,
+        "AttrType": 344,
+        "Integer": 2
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 140,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 4000
+      },
+      "4": {
+        "PetAttrType": 4,
+        "BaseValue": 500,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 1,
+        "GrowValue": 300,
+        "AttrType": 343,
+        "Integer": 0
+      }
+    }
+  },
+  "104": {
+    "NameID": 610005,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 104,
+    "ArtID": 1002,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 104,
+    "BuffID": 0,
+    "Rank": 3,
+    "InitialNum": 0,
+    "cardItem1": 100,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 400,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 5,
+        "BaseValue": 14,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 7,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "1001": {
+    "NameID": 610048,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 927,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 1001,
+    "BuffID": 0,
+    "Rank": 2,
+    "InitialNum": 0,
+    "cardItem1": 1000,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1500,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 600,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 80,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 40,
+        "AttrType": 32,
+        "Integer": 1
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "1002": {
+    "NameID": 610049,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 1002,
+    "ArtID": 926,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 1002,
+    "BuffID": 0,
+    "Rank": 7,
+    "InitialNum": 0,
+    "cardItem1": 1000,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 2500,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 1000,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 7,
+        "BaseValue": 200,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 100,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 140,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 5000
+      },
+      "4": {
+        "PetAttrType": 4,
+        "BaseValue": 1000,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 4,
+        "GrowValue": 500,
+        "AttrType": 343,
+        "Integer": 0
+      }
+    }
+  },
+  "1003": {
+    "NameID": 610050,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 1003,
+    "ArtID": 1052,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 1003,
+    "BuffID": 0,
+    "Rank": 4,
+    "InitialNum": 0,
+    "cardItem1": 1000,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1200,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 500,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 800,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 400,
+        "AttrType": 344,
+        "Integer": 22
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 139,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 2000
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "300": {
+    "NameID": 610011,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 936,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 300,
+    "Chain": {
+      "1": 301,
+      "2": 302,
+      "3": 303,
+      "4": 304
+    },
+    "BuffID": 0,
+    "Rank": 2,
+    "InitialNum": 0,
+    "cardItem1": 300,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1500,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 600,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "301": {
+    "NameID": 610012,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 937,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 301,
+    "BuffID": 0,
+    "Rank": 3,
+    "InitialNum": 0,
+    "cardItem1": 300,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 2000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 800,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 100,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 50,
+        "AttrType": 100,
+        "Integer": 12
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "302": {
+    "NameID": 610013,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 302,
+    "ArtID": 939,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 302,
+    "BuffID": 0,
+    "Rank": 5,
+    "InitialNum": 0,
+    "cardItem1": 300,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 3000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 1200,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 200,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 100,
+        "AttrType": 387,
+        "Integer": 4
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 138,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 3000
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "303": {
+    "NameID": 610014,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 303,
+    "ArtID": 973,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 303,
+    "BuffID": 0,
+    "Rank": 7,
+    "InitialNum": 0,
+    "cardItem1": 300,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 5000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 2000,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 2000,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 1000,
+        "AttrType": 344,
+        "Integer": 10
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 138,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 5000
+      },
+      "4": {
+        "PetAttrType": 4,
+        "BaseValue": 1000,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 3,
+        "GrowValue": 500,
+        "AttrType": 343,
+        "Integer": 0
+      }
+    }
+  },
+  "304": {
+    "NameID": 610015,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 304,
+    "ArtID": 975,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 304,
+    "BuffID": 0,
+    "Rank": 7,
+    "InitialNum": 0,
+    "cardItem1": 300,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 5000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 2000,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 400,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 200,
+        "AttrType": 387,
+        "Integer": 4
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 137,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 5000
+      },
+      "4": {
+        "PetAttrType": 4,
+        "BaseValue": 1000,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 7,
+        "GrowValue": 500,
+        "AttrType": 343,
+        "Integer": 0
+      }
+    }
+  },
+  "1004": {
+    "NameID": 610051,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 1004,
+    "ArtID": 1051,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 1004,
+    "BuffID": 0,
+    "Rank": 5,
+    "InitialNum": 0,
+    "cardItem1": 1000,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1500,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 600,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 1000,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 500,
+        "AttrType": 344,
+        "Integer": 19
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 137,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 3000
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "500": {
+    "NameID": 610021,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 923,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 500,
+    "Chain": {
+      "1": 501,
+      "2": 502,
+      "3": 503,
+      "4": 504
+    },
+    "BuffID": 0,
+    "Rank": 2,
+    "InitialNum": 0,
+    "cardItem1": 500,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1500,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 600,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "501": {
+    "NameID": 610022,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 924,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 501,
+    "BuffID": 0,
+    "Rank": 3,
+    "InitialNum": 0,
+    "cardItem1": 500,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 2000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 800,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 700,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 350,
+        "AttrType": 344,
+        "Integer": 8
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "502": {
+    "NameID": 610023,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 502,
+    "ArtID": 970,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 502,
+    "BuffID": 0,
+    "Rank": 4,
+    "InitialNum": 0,
+    "cardItem1": 500,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 2500,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 1000,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 150,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 75,
+        "AttrType": 31,
+        "Integer": 11
+      },
+      "3": {
+        "PetAttrType": 8,
+        "BaseValue": 20,
+        "PetBuffType": 130,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 2000
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "503": {
+    "NameID": 610024,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 503,
+    "ArtID": 1007,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 503,
+    "BuffID": 0,
+    "Rank": 3,
+    "InitialNum": 0,
+    "cardItem1": 500,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 400,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 7,
+        "BaseValue": 70,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 35,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "504": {
+    "NameID": 610025,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 504,
+    "ArtID": 1008,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 504,
+    "BuffID": 0,
+    "Rank": 6,
+    "InitialNum": 0,
+    "cardItem1": 500,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 2000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 800,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 1500,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 750,
+        "AttrType": 344,
+        "Integer": 3
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 139,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 4000
+      },
+      "4": {
+        "PetAttrType": 4,
+        "BaseValue": 500,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 3,
+        "GrowValue": 300,
+        "AttrType": 343,
+        "Integer": 0
+      }
+    }
+  },
+  "1000": {
+    "NameID": 610047,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 925,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 1000,
+    "Chain": {
+      "1": 1001,
+      "2": 1002,
+      "3": 1003,
+      "4": 1004
+    },
+    "BuffID": 0,
+    "Rank": 1,
+    "InitialNum": 0,
+    "cardItem1": 1000,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 500,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "904": {
+    "NameID": 610046,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 904,
+    "ArtID": 1011,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 904,
+    "BuffID": 0,
+    "Rank": 3,
+    "InitialNum": 0,
+    "cardItem1": 900,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 2000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 800,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 700,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 350,
+        "AttrType": 344,
+        "Integer": 10
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "804": {
+    "NameID": 610040,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 804,
+    "ArtID": 1006,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 804,
+    "BuffID": 0,
+    "Rank": 6,
+    "InitialNum": 0,
+    "cardItem1": 800,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 4000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 1500,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 6,
+        "BaseValue": 60,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 30,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 139,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 4000
+      },
+      "4": {
+        "PetAttrType": 4,
+        "BaseValue": 500,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 3,
+        "GrowValue": 300,
+        "AttrType": 343,
+        "Integer": 0
+      }
+    }
+  },
+  "700": {
+    "NameID": 610031,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 958,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 700,
+    "Chain": {
+      "1": 701,
+      "2": 702,
+      "3": 703,
+      "4": 704
+    },
+    "BuffID": 0,
+    "Rank": 3,
+    "InitialNum": 0,
+    "cardItem1": 700,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 400,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "3": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "701": {
+    "NameID": 610032,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 0,
+    "ArtID": 959,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 701,
+    "BuffID": 0,
+    "Rank": 4,
+    "InitialNum": 0,
+    "cardItem1": 700,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 1200,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 500,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 800,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 400,
+        "AttrType": 344,
+        "Integer": 8
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 140,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 2000
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  },
+  "702": {
+    "NameID": 610033,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 702,
+    "ArtID": 960,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 702,
+    "BuffID": 0,
+    "Rank": 6,
+    "InitialNum": 0,
+    "cardItem1": 700,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 2000,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 800,
+        "AttrType": 18,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 1500,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 750,
+        "AttrType": 344,
+        "Integer": 15
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 140,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 4000
+      },
+      "4": {
+        "PetAttrType": 4,
+        "BaseValue": 500,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 7,
+        "GrowValue": 300,
+        "AttrType": 343,
+        "Integer": 0
+      }
+    }
+  },
+  "703": {
+    "NameID": 610034,
+    "IsHide": 0,
+    "LimitTime": 0,
+    "DescID": 0,
+    "cardItem2": 703,
+    "ArtID": 1012,
+    "itemTypeID": 0,
+    "growNum": 0,
+    "BaseID": 703,
+    "BuffID": 0,
+    "Rank": 4,
+    "InitialNum": 0,
+    "cardItem1": 700,
+    "Attrs": {
+      "1": {
+        "PetAttrType": 1,
+        "BaseValue": 2500,
+        "PetBuffType": 0,
+        "UnlockLevel": 0,
+        "DepartEnumType": 0,
+        "GrowValue": 1000,
+        "AttrType": 17,
+        "Integer": 0
+      },
+      "2": {
+        "PetAttrType": 2,
+        "BaseValue": 800,
+        "PetBuffType": 0,
+        "UnlockLevel": 5,
+        "DepartEnumType": 0,
+        "GrowValue": 400,
+        "AttrType": 344,
+        "Integer": 11
+      },
+      "3": {
+        "PetAttrType": 3,
+        "BaseValue": 20,
+        "PetBuffType": 139,
+        "UnlockLevel": 7,
+        "DepartEnumType": 0,
+        "GrowValue": 10,
+        "AttrType": 0,
+        "Integer": 2000
+      },
+      "4": {
+        "PetAttrType": 0,
+        "BaseValue": 0,
+        "PetBuffType": 0,
+        "UnlockLevel": 9,
+        "DepartEnumType": 0,
+        "GrowValue": 0,
+        "AttrType": 0,
+        "Integer": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/release-assets/
+/.qa/
+/.tools/
+/.venv/
+/mobile_assets/
+**/node_modules/
+**/__pycache__/
+*.py[cod]
+*.key
+*.pem
+*.pfx
+*.log

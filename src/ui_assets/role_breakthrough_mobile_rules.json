@@ -1,0 +1,88 @@
+{
+  "source_apk": "D:\\gameTest\\base.apk",
+  "apk_sha256": "fa9264dd20b2b7702bbf6821640130bc0ceff28930e3f18a97b6e55dccf31ec4",
+  "role_piece": {
+    "1": {
+      "Piece": 1,
+      "BaseID": 1,
+      "AttrAdd": 2000,
+      "Level": 1
+    },
+    "2": {
+      "Piece": 2,
+      "BaseID": 2,
+      "AttrAdd": 4000,
+      "Level": 2
+    },
+    "3": {
+      "Piece": 4,
+      "BaseID": 3,
+      "AttrAdd": 6000,
+      "Level": 3
+    },
+    "4": {
+      "Piece": 6,
+      "BaseID": 4,
+      "AttrAdd": 8000,
+      "Level": 4
+    },
+    "5": {
+      "Piece": 8,
+      "BaseID": 5,
+      "AttrAdd": 10000,
+      "Level": 5
+    },
+    "6": {
+      "Piece": 12,
+      "BaseID": 6,
+      "AttrAdd": 12000,
+      "Level": 6
+    },
+    "7": {
+      "Piece": 16,
+      "BaseID": 7,
+      "AttrAdd": 14000,
+      "Level": 7
+    },
+    "8": {
+      "Piece": 24,
+      "BaseID": 8,
+      "AttrAdd": 16000,
+      "Level": 8
+    },
+    "9": {
+      "Piece": 32,
+      "BaseID": 9,
+      "AttrAdd": 18000,
+      "Level": 9
+    },
+    "10": {
+      "Piece": 50,
+      "BaseID": 10,
+      "AttrAdd": 20000,
+      "Level": 10
+    }
+  },
+  "evidence": {
+    "common.lua": {
+      "apk_member": "assets/bin/Data/a9a37168dd5928449a8bd87306384e69",
+      "offset": 4116,
+      "bytes": 668159,
+      "sha256": "272c7960a90c05a63650c309050a099556747289ce1277c397b0fc3a72cef83e"
+    },
+    "RolePiece.lua": {
+      "apk_member": "assets/bin/Data/959edce987269374db5c866f524d6a2c",
+      "offset": 4120,
+      "bytes": 953,
+      "sha256": "a3c09dc6e9bbcf95199167d810653f033b77c9d558349899b9a7bf9174c52409"
+    },
+    "CardsUpgradeDataManager.lua": {
+      "apk_member": "assets/bin/Data/07393c2e8d4973c4882cc73d95a9fdcf",
+      "offset": 4132,
+      "bytes": 46069,
+      "sha256": "15407ab018b7c37afe55404ef94f2686281567efd3fac86f0e1ccdd6deae470e"
+    }
+  },
+  "conversion": 500,
+  "condition": "继承GetUpgrade的品质、开放天数和已解锁剧情8限制；原生上限10。"
+}

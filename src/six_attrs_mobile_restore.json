@@ -1,0 +1,8566 @@
+{
+  "source_apk_sha256": "fa9264dd20b2b7702bbf6821640130bc0ceff28930e3f18a97b6e55dccf31ec4",
+  "forge_weights": [
+    {
+      "Attr": 3,
+      "Value": 10000000
+    },
+    {
+      "Attr": 7,
+      "Value": 10000000
+    },
+    {
+      "Attr": 6,
+      "Value": 10000000
+    },
+    {
+      "Attr": 4,
+      "Value": 10000000
+    },
+    {
+      "Attr": 5,
+      "Value": 10000000
+    },
+    {
+      "Attr": 8,
+      "Value": 10000000
+    },
+    {
+      "Attr": 9,
+      "Value": 10000000
+    },
+    {
+      "Attr": 11,
+      "Value": 10000000
+    },
+    {
+      "Attr": 12,
+      "Value": 10000000
+    },
+    {
+      "Attr": 10,
+      "Value": 10000000
+    },
+    {
+      "Attr": 16,
+      "Value": 10000000
+    },
+    {
+      "Attr": 15,
+      "Value": 10000000
+    },
+    {
+      "Attr": 13,
+      "Value": 10000000
+    },
+    {
+      "Attr": 14,
+      "Value": 10000000
+    },
+    {
+      "Attr": 17,
+      "Value": 10000000
+    },
+    {
+      "Attr": 24,
+      "Value": 10000000
+    },
+    {
+      "Attr": 23,
+      "Value": 10000000
+    },
+    {
+      "Attr": 25,
+      "Value": 10000000
+    },
+    {
+      "Attr": 22,
+      "Value": 10000000
+    },
+    {
+      "Attr": 29,
+      "Value": 10000000
+    },
+    {
+      "Attr": 28,
+      "Value": 10000000
+    },
+    {
+      "Attr": 26,
+      "Value": 10000000
+    },
+    {
+      "Attr": 27,
+      "Value": 10000000
+    },
+    {
+      "Attr": 20,
+      "Value": 10000000
+    },
+    {
+      "Attr": 18,
+      "Value": 10000000
+    },
+    {
+      "Attr": 30,
+      "Value": 10000000
+    },
+    {
+      "Attr": 33,
+      "Value": 10000000
+    },
+    {
+      "Attr": 31,
+      "Value": 10000000
+    },
+    {
+      "Attr": 64,
+      "Value": 10000000
+    },
+    {
+      "Attr": 32,
+      "Value": 10000000
+    },
+    {
+      "Attr": 35,
+      "Value": 10000000
+    },
+    {
+      "Attr": 65,
+      "Value": 2000000
+    },
+    {
+      "Attr": 36,
+      "Value": 0
+    },
+    {
+      "Attr": 37,
+      "Value": 0
+    },
+    {
+      "Attr": 49,
+      "Value": 0
+    },
+    {
+      "Attr": 38,
+      "Value": 0
+    },
+    {
+      "Attr": 41,
+      "Value": 0
+    },
+    {
+      "Attr": 42,
+      "Value": 0
+    },
+    {
+      "Attr": 43,
+      "Value": 0
+    },
+    {
+      "Attr": 45,
+      "Value": 0
+    },
+    {
+      "Attr": 46,
+      "Value": 0
+    },
+    {
+      "Attr": 47,
+      "Value": 0
+    },
+    {
+      "Attr": 48,
+      "Value": 0
+    },
+    {
+      "Attr": 50,
+      "Value": 0
+    },
+    {
+      "Attr": 53,
+      "Value": 0
+    },
+    {
+      "Attr": 54,
+      "Value": 0
+    },
+    {
+      "Attr": 40,
+      "Value": 0
+    },
+    {
+      "Attr": 39,
+      "Value": 0
+    },
+    {
+      "Attr": 70,
+      "Value": 0
+    },
+    {
+      "Attr": 71,
+      "Value": 0
+    },
+    {
+      "Attr": 56,
+      "Value": 0
+    },
+    {
+      "Attr": 57,
+      "Value": 0
+    },
+    {
+      "Attr": 60,
+      "Value": 0
+    },
+    {
+      "Attr": 59,
+      "Value": 0
+    },
+    {
+      "Attr": 58,
+      "Value": 0
+    },
+    {
+      "Attr": 61,
+      "Value": 0
+    }
+  ],
+  "forge_rows": {
+    "1": {
+      "AttrType": 3,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 1,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 5,
+          "MaxBaseValue": 14,
+          "MinExtraValue": 1,
+          "MaxExtraValue": 2
+        },
+        {
+          "MinBaseValue": 11,
+          "MaxBaseValue": 28,
+          "MinExtraValue": 2,
+          "MaxExtraValue": 4
+        },
+        {
+          "MinBaseValue": 19,
+          "MaxBaseValue": 50,
+          "MinExtraValue": 4,
+          "MaxExtraValue": 7
+        },
+        {
+          "MinBaseValue": 30,
+          "MaxBaseValue": 76,
+          "MinExtraValue": 6,
+          "MaxExtraValue": 11
+        },
+        {
+          "MinBaseValue": 43,
+          "MaxBaseValue": 110,
+          "MinExtraValue": 9,
+          "MaxExtraValue": 17
+        },
+        {
+          "MinBaseValue": 58,
+          "MaxBaseValue": 153,
+          "MinExtraValue": 12,
+          "MaxExtraValue": 23
+        },
+        {
+          "MinBaseValue": 80,
+          "MaxBaseValue": 210,
+          "MinExtraValue": 16,
+          "MaxExtraValue": 31
+        },
+        {
+          "MinBaseValue": 86,
+          "MaxBaseValue": 222,
+          "MinExtraValue": 17,
+          "MaxExtraValue": 33
+        },
+        {
+          "MinBaseValue": 91,
+          "MaxBaseValue": 235,
+          "MinExtraValue": 18,
+          "MaxExtraValue": 35
+        }
+      ]
+    },
+    "2": {
+      "AttrType": 7,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 2,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 5,
+          "MaxBaseValue": 14,
+          "MinExtraValue": 1,
+          "MaxExtraValue": 2
+        },
+        {
+          "MinBaseValue": 11,
+          "MaxBaseValue": 28,
+          "MinExtraValue": 2,
+          "MaxExtraValue": 4
+        },
+        {
+          "MinBaseValue": 19,
+          "MaxBaseValue": 50,
+          "MinExtraValue": 4,
+          "MaxExtraValue": 7
+        },
+        {
+          "MinBaseValue": 30,
+          "MaxBaseValue": 76,
+          "MinExtraValue": 6,
+          "MaxExtraValue": 11
+        },
+        {
+          "MinBaseValue": 43,
+          "MaxBaseValue": 110,
+          "MinExtraValue": 9,
+          "MaxExtraValue": 17
+        },
+        {
+          "MinBaseValue": 58,
+          "MaxBaseValue": 153,
+          "MinExtraValue": 12,
+          "MaxExtraValue": 23
+        },
+        {
+          "MinBaseValue": 80,
+          "MaxBaseValue": 210,
+          "MinExtraValue": 16,
+          "MaxExtraValue": 31
+        },
+        {
+          "MinBaseValue": 86,
+          "MaxBaseValue": 222,
+          "MinExtraValue": 17,
+          "MaxExtraValue": 33
+        },
+        {
+          "MinBaseValue": 91,
+          "MaxBaseValue": 235,
+          "MinExtraValue": 18,
+          "MaxExtraValue": 35
+        }
+      ]
+    },
+    "3": {
+      "AttrType": 6,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 3,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 5,
+          "MaxBaseValue": 14,
+          "MinExtraValue": 1,
+          "MaxExtraValue": 2
+        },
+        {
+          "MinBaseValue": 11,
+          "MaxBaseValue": 28,
+          "MinExtraValue": 2,
+          "MaxExtraValue": 4
+        },
+        {
+          "MinBaseValue": 19,
+          "MaxBaseValue": 50,
+          "MinExtraValue": 4,
+          "MaxExtraValue": 7
+        },
+        {
+          "MinBaseValue": 30,
+          "MaxBaseValue": 76,
+          "MinExtraValue": 6,
+          "MaxExtraValue": 11
+        },
+        {
+          "MinBaseValue": 43,
+          "MaxBaseValue": 110,
+          "MinExtraValue": 9,
+          "MaxExtraValue": 17
+        },
+        {
+          "MinBaseValue": 58,
+          "MaxBaseValue": 153,
+          "MinExtraValue": 12,
+          "MaxExtraValue": 23
+        },
+        {
+          "MinBaseValue": 80,
+          "MaxBaseValue": 210,
+          "MinExtraValue": 16,
+          "MaxExtraValue": 31
+        },
+        {
+          "MinBaseValue": 86,
+          "MaxBaseValue": 222,
+          "MinExtraValue": 17,
+          "MaxExtraValue": 33
+        },
+        {
+          "MinBaseValue": 91,
+          "MaxBaseValue": 235,
+          "MinExtraValue": 18,
+          "MaxExtraValue": 35
+        }
+      ]
+    },
+    "4": {
+      "AttrType": 4,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 4,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 5,
+          "MaxBaseValue": 14,
+          "MinExtraValue": 1,
+          "MaxExtraValue": 2
+        },
+        {
+          "MinBaseValue": 11,
+          "MaxBaseValue": 28,
+          "MinExtraValue": 2,
+          "MaxExtraValue": 4
+        },
+        {
+          "MinBaseValue": 19,
+          "MaxBaseValue": 50,
+          "MinExtraValue": 4,
+          "MaxExtraValue": 7
+        },
+        {
+          "MinBaseValue": 30,
+          "MaxBaseValue": 76,
+          "MinExtraValue": 6,
+          "MaxExtraValue": 11
+        },
+        {
+          "MinBaseValue": 43,
+          "MaxBaseValue": 110,
+          "MinExtraValue": 9,
+          "MaxExtraValue": 17
+        },
+        {
+          "MinBaseValue": 58,
+          "MaxBaseValue": 153,
+          "MinExtraValue": 12,
+          "MaxExtraValue": 23
+        },
+        {
+          "MinBaseValue": 80,
+          "MaxBaseValue": 210,
+          "MinExtraValue": 16,
+          "MaxExtraValue": 31
+        },
+        {
+          "MinBaseValue": 86,
+          "MaxBaseValue": 222,
+          "MinExtraValue": 17,
+          "MaxExtraValue": 33
+        },
+        {
+          "MinBaseValue": 91,
+          "MaxBaseValue": 235,
+          "MinExtraValue": 18,
+          "MaxExtraValue": 35
+        }
+      ]
+    },
+    "5": {
+      "AttrType": 5,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 5,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 5,
+          "MaxBaseValue": 14,
+          "MinExtraValue": 1,
+          "MaxExtraValue": 2
+        },
+        {
+          "MinBaseValue": 11,
+          "MaxBaseValue": 28,
+          "MinExtraValue": 2,
+          "MaxExtraValue": 4
+        },
+        {
+          "MinBaseValue": 19,
+          "MaxBaseValue": 50,
+          "MinExtraValue": 4,
+          "MaxExtraValue": 7
+        },
+        {
+          "MinBaseValue": 30,
+          "MaxBaseValue": 76,
+          "MinExtraValue": 6,
+          "MaxExtraValue": 11
+        },
+        {
+          "MinBaseValue": 43,
+          "MaxBaseValue": 110,
+          "MinExtraValue": 9,
+          "MaxExtraValue": 17
+        },
+        {
+          "MinBaseValue": 58,
+          "MaxBaseValue": 153,
+          "MinExtraValue": 12,
+          "MaxExtraValue": 23
+        },
+        {
+          "MinBaseValue": 80,
+          "MaxBaseValue": 210,
+          "MinExtraValue": 16,
+          "MaxExtraValue": 31
+        },
+        {
+          "MinBaseValue": 86,
+          "MaxBaseValue": 222,
+          "MinExtraValue": 17,
+          "MaxExtraValue": 33
+        },
+        {
+          "MinBaseValue": 91,
+          "MaxBaseValue": 235,
+          "MinExtraValue": 18,
+          "MaxExtraValue": 35
+        }
+      ]
+    },
+    "6": {
+      "AttrType": 8,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 6,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 5,
+          "MaxBaseValue": 14,
+          "MinExtraValue": 1,
+          "MaxExtraValue": 2
+        },
+        {
+          "MinBaseValue": 11,
+          "MaxBaseValue": 28,
+          "MinExtraValue": 2,
+          "MaxExtraValue": 4
+        },
+        {
+          "MinBaseValue": 19,
+          "MaxBaseValue": 50,
+          "MinExtraValue": 4,
+          "MaxExtraValue": 7
+        },
+        {
+          "MinBaseValue": 30,
+          "MaxBaseValue": 76,
+          "MinExtraValue": 6,
+          "MaxExtraValue": 11
+        },
+        {
+          "MinBaseValue": 43,
+          "MaxBaseValue": 110,
+          "MinExtraValue": 9,
+          "MaxExtraValue": 17
+        },
+        {
+          "MinBaseValue": 58,
+          "MaxBaseValue": 153,
+          "MinExtraValue": 12,
+          "MaxExtraValue": 23
+        },
+        {
+          "MinBaseValue": 80,
+          "MaxBaseValue": 210,
+          "MinExtraValue": 16,
+          "MaxExtraValue": 31
+        },
+        {
+          "MinBaseValue": 86,
+          "MaxBaseValue": 222,
+          "MinExtraValue": 17,
+          "MaxExtraValue": 33
+        },
+        {
+          "MinBaseValue": 91,
+          "MaxBaseValue": 235,
+          "MinExtraValue": 18,
+          "MaxExtraValue": 35
+        }
+      ]
+    },
+    "7": {
+      "AttrType": 9,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 7,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 5,
+          "MaxBaseValue": 14,
+          "MinExtraValue": 1,
+          "MaxExtraValue": 2
+        },
+        {
+          "MinBaseValue": 11,
+          "MaxBaseValue": 28,
+          "MinExtraValue": 2,
+          "MaxExtraValue": 4
+        },
+        {
+          "MinBaseValue": 19,
+          "MaxBaseValue": 50,
+          "MinExtraValue": 4,
+          "MaxExtraValue": 7
+        },
+        {
+          "MinBaseValue": 30,
+          "MaxBaseValue": 76,
+          "MinExtraValue": 6,
+          "MaxExtraValue": 11
+        },
+        {
+          "MinBaseValue": 43,
+          "MaxBaseValue": 110,
+          "MinExtraValue": 9,
+          "MaxExtraValue": 17
+        },
+        {
+          "MinBaseValue": 58,
+          "MaxBaseValue": 153,
+          "MinExtraValue": 12,
+          "MaxExtraValue": 23
+        },
+        {
+          "MinBaseValue": 80,
+          "MaxBaseValue": 210,
+          "MinExtraValue": 16,
+          "MaxExtraValue": 31
+        },
+        {
+          "MinBaseValue": 86,
+          "MaxBaseValue": 222,
+          "MinExtraValue": 17,
+          "MaxExtraValue": 33
+        },
+        {
+          "MinBaseValue": 91,
+          "MaxBaseValue": 235,
+          "MinExtraValue": 18,
+          "MaxExtraValue": 35
+        }
+      ]
+    },
+    "8": {
+      "AttrType": 11,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 8,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 5,
+          "MaxBaseValue": 14,
+          "MinExtraValue": 1,
+          "MaxExtraValue": 2
+        },
+        {
+          "MinBaseValue": 11,
+          "MaxBaseValue": 28,
+          "MinExtraValue": 2,
+          "MaxExtraValue": 4
+        },
+        {
+          "MinBaseValue": 19,
+          "MaxBaseValue": 50,
+          "MinExtraValue": 4,
+          "MaxExtraValue": 7
+        },
+        {
+          "MinBaseValue": 30,
+          "MaxBaseValue": 76,
+          "MinExtraValue": 6,
+          "MaxExtraValue": 11
+        },
+        {
+          "MinBaseValue": 43,
+          "MaxBaseValue": 110,
+          "MinExtraValue": 9,
+          "MaxExtraValue": 17
+        },
+        {
+          "MinBaseValue": 58,
+          "MaxBaseValue": 153,
+          "MinExtraValue": 12,
+          "MaxExtraValue": 23
+        },
+        {
+          "MinBaseValue": 80,
+          "MaxBaseValue": 210,
+          "MinExtraValue": 16,
+          "MaxExtraValue": 31
+        },
+        {
+          "MinBaseValue": 86,
+          "MaxBaseValue": 222,
+          "MinExtraValue": 17,
+          "MaxExtraValue": 33
+        },
+        {
+          "MinBaseValue": 91,
+          "MaxBaseValue": 235,
+          "MinExtraValue": 18,
+          "MaxExtraValue": 35
+        }
+      ]
+    },
+    "9": {
+      "AttrType": 12,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 9,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 5,
+          "MaxBaseValue": 14,
+          "MinExtraValue": 1,
+          "MaxExtraValue": 2
+        },
+        {
+          "MinBaseValue": 11,
+          "MaxBaseValue": 28,
+          "MinExtraValue": 2,
+          "MaxExtraValue": 4
+        },
+        {
+          "MinBaseValue": 19,
+          "MaxBaseValue": 50,
+          "MinExtraValue": 4,
+          "MaxExtraValue": 7
+        },
+        {
+          "MinBaseValue": 30,
+          "MaxBaseValue": 76,
+          "MinExtraValue": 6,
+          "MaxExtraValue": 11
+        },
+        {
+          "MinBaseValue": 43,
+          "MaxBaseValue": 110,
+          "MinExtraValue": 9,
+          "MaxExtraValue": 17
+        },
+        {
+          "MinBaseValue": 58,
+          "MaxBaseValue": 153,
+          "MinExtraValue": 12,
+          "MaxExtraValue": 23
+        },
+        {
+          "MinBaseValue": 80,
+          "MaxBaseValue": 210,
+          "MinExtraValue": 16,
+          "MaxExtraValue": 31
+        },
+        {
+          "MinBaseValue": 86,
+          "MaxBaseValue": 222,
+          "MinExtraValue": 17,
+          "MaxExtraValue": 33
+        },
+        {
+          "MinBaseValue": 91,
+          "MaxBaseValue": 235,
+          "MinExtraValue": 18,
+          "MaxExtraValue": 35
+        }
+      ]
+    },
+    "10": {
+      "AttrType": 10,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 10,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 5,
+          "MaxBaseValue": 14,
+          "MinExtraValue": 1,
+          "MaxExtraValue": 2
+        },
+        {
+          "MinBaseValue": 11,
+          "MaxBaseValue": 28,
+          "MinExtraValue": 2,
+          "MaxExtraValue": 4
+        },
+        {
+          "MinBaseValue": 19,
+          "MaxBaseValue": 50,
+          "MinExtraValue": 4,
+          "MaxExtraValue": 7
+        },
+        {
+          "MinBaseValue": 30,
+          "MaxBaseValue": 76,
+          "MinExtraValue": 6,
+          "MaxExtraValue": 11
+        },
+        {
+          "MinBaseValue": 43,
+          "MaxBaseValue": 110,
+          "MinExtraValue": 9,
+          "MaxExtraValue": 17
+        },
+        {
+          "MinBaseValue": 58,
+          "MaxBaseValue": 153,
+          "MinExtraValue": 12,
+          "MaxExtraValue": 23
+        },
+        {
+          "MinBaseValue": 80,
+          "MaxBaseValue": 210,
+          "MinExtraValue": 16,
+          "MaxExtraValue": 31
+        },
+        {
+          "MinBaseValue": 86,
+          "MaxBaseValue": 222,
+          "MinExtraValue": 17,
+          "MaxExtraValue": 33
+        },
+        {
+          "MinBaseValue": 91,
+          "MaxBaseValue": 235,
+          "MinExtraValue": 18,
+          "MaxExtraValue": 35
+        }
+      ]
+    },
+    "11": {
+      "AttrType": 16,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 11,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 5,
+          "MaxBaseValue": 14,
+          "MinExtraValue": 1,
+          "MaxExtraValue": 2
+        },
+        {
+          "MinBaseValue": 11,
+          "MaxBaseValue": 28,
+          "MinExtraValue": 2,
+          "MaxExtraValue": 4
+        },
+        {
+          "MinBaseValue": 19,
+          "MaxBaseValue": 50,
+          "MinExtraValue": 4,
+          "MaxExtraValue": 7
+        },
+        {
+          "MinBaseValue": 30,
+          "MaxBaseValue": 76,
+          "MinExtraValue": 6,
+          "MaxExtraValue": 11
+        },
+        {
+          "MinBaseValue": 43,
+          "MaxBaseValue": 110,
+          "MinExtraValue": 9,
+          "MaxExtraValue": 17
+        },
+        {
+          "MinBaseValue": 58,
+          "MaxBaseValue": 153,
+          "MinExtraValue": 12,
+          "MaxExtraValue": 23
+        },
+        {
+          "MinBaseValue": 80,
+          "MaxBaseValue": 210,
+          "MinExtraValue": 16,
+          "MaxExtraValue": 31
+        },
+        {
+          "MinBaseValue": 86,
+          "MaxBaseValue": 222,
+          "MinExtraValue": 17,
+          "MaxExtraValue": 33
+        },
+        {
+          "MinBaseValue": 91,
+          "MaxBaseValue": 235,
+          "MinExtraValue": 18,
+          "MaxExtraValue": 35
+        }
+      ]
+    },
+    "12": {
+      "AttrType": 15,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 12,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 5,
+          "MaxBaseValue": 14,
+          "MinExtraValue": 1,
+          "MaxExtraValue": 2
+        },
+        {
+          "MinBaseValue": 11,
+          "MaxBaseValue": 28,
+          "MinExtraValue": 2,
+          "MaxExtraValue": 4
+        },
+        {
+          "MinBaseValue": 19,
+          "MaxBaseValue": 50,
+          "MinExtraValue": 4,
+          "MaxExtraValue": 7
+        },
+        {
+          "MinBaseValue": 30,
+          "MaxBaseValue": 76,
+          "MinExtraValue": 6,
+          "MaxExtraValue": 11
+        },
+        {
+          "MinBaseValue": 43,
+          "MaxBaseValue": 110,
+          "MinExtraValue": 9,
+          "MaxExtraValue": 17
+        },
+        {
+          "MinBaseValue": 58,
+          "MaxBaseValue": 153,
+          "MinExtraValue": 12,
+          "MaxExtraValue": 23
+        },
+        {
+          "MinBaseValue": 80,
+          "MaxBaseValue": 210,
+          "MinExtraValue": 16,
+          "MaxExtraValue": 31
+        },
+        {
+          "MinBaseValue": 86,
+          "MaxBaseValue": 222,
+          "MinExtraValue": 17,
+          "MaxExtraValue": 33
+        },
+        {
+          "MinBaseValue": 91,
+          "MaxBaseValue": 235,
+          "MinExtraValue": 18,
+          "MaxExtraValue": 35
+        }
+      ]
+    },
+    "13": {
+      "AttrType": 13,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 13,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 5,
+          "MaxBaseValue": 14,
+          "MinExtraValue": 1,
+          "MaxExtraValue": 2
+        },
+        {
+          "MinBaseValue": 11,
+          "MaxBaseValue": 28,
+          "MinExtraValue": 2,
+          "MaxExtraValue": 4
+        },
+        {
+          "MinBaseValue": 19,
+          "MaxBaseValue": 50,
+          "MinExtraValue": 4,
+          "MaxExtraValue": 7
+        },
+        {
+          "MinBaseValue": 30,
+          "MaxBaseValue": 76,
+          "MinExtraValue": 6,
+          "MaxExtraValue": 11
+        },
+        {
+          "MinBaseValue": 43,
+          "MaxBaseValue": 110,
+          "MinExtraValue": 9,
+          "MaxExtraValue": 17
+        },
+        {
+          "MinBaseValue": 58,
+          "MaxBaseValue": 153,
+          "MinExtraValue": 12,
+          "MaxExtraValue": 23
+        },
+        {
+          "MinBaseValue": 80,
+          "MaxBaseValue": 210,
+          "MinExtraValue": 16,
+          "MaxExtraValue": 31
+        },
+        {
+          "MinBaseValue": 86,
+          "MaxBaseValue": 222,
+          "MinExtraValue": 17,
+          "MaxExtraValue": 33
+        },
+        {
+          "MinBaseValue": 91,
+          "MaxBaseValue": 235,
+          "MinExtraValue": 18,
+          "MaxExtraValue": 35
+        }
+      ]
+    },
+    "14": {
+      "AttrType": 14,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 14,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 5,
+          "MaxBaseValue": 14,
+          "MinExtraValue": 1,
+          "MaxExtraValue": 2
+        },
+        {
+          "MinBaseValue": 11,
+          "MaxBaseValue": 28,
+          "MinExtraValue": 2,
+          "MaxExtraValue": 4
+        },
+        {
+          "MinBaseValue": 19,
+          "MaxBaseValue": 50,
+          "MinExtraValue": 4,
+          "MaxExtraValue": 7
+        },
+        {
+          "MinBaseValue": 30,
+          "MaxBaseValue": 76,
+          "MinExtraValue": 6,
+          "MaxExtraValue": 11
+        },
+        {
+          "MinBaseValue": 43,
+          "MaxBaseValue": 110,
+          "MinExtraValue": 9,
+          "MaxExtraValue": 17
+        },
+        {
+          "MinBaseValue": 58,
+          "MaxBaseValue": 153,
+          "MinExtraValue": 12,
+          "MaxExtraValue": 23
+        },
+        {
+          "MinBaseValue": 80,
+          "MaxBaseValue": 210,
+          "MinExtraValue": 16,
+          "MaxExtraValue": 31
+        },
+        {
+          "MinBaseValue": 86,
+          "MaxBaseValue": 222,
+          "MinExtraValue": 17,
+          "MaxExtraValue": 33
+        },
+        {
+          "MinBaseValue": 91,
+          "MaxBaseValue": 235,
+          "MinExtraValue": 18,
+          "MaxExtraValue": 35
+        }
+      ]
+    },
+    "16": {
+      "AttrType": 24,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 16,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 54,
+          "MaxBaseValue": 140,
+          "MinExtraValue": 11,
+          "MaxExtraValue": 21
+        },
+        {
+          "MinBaseValue": 108,
+          "MaxBaseValue": 281,
+          "MinExtraValue": 22,
+          "MaxExtraValue": 42
+        },
+        {
+          "MinBaseValue": 194,
+          "MaxBaseValue": 497,
+          "MinExtraValue": 39,
+          "MaxExtraValue": 75
+        },
+        {
+          "MinBaseValue": 302,
+          "MaxBaseValue": 756,
+          "MinExtraValue": 60,
+          "MaxExtraValue": 113
+        },
+        {
+          "MinBaseValue": 432,
+          "MaxBaseValue": 1102,
+          "MinExtraValue": 86,
+          "MaxExtraValue": 165
+        },
+        {
+          "MinBaseValue": 583,
+          "MaxBaseValue": 1534,
+          "MinExtraValue": 117,
+          "MaxExtraValue": 230
+        },
+        {
+          "MinBaseValue": 799,
+          "MaxBaseValue": 2095,
+          "MinExtraValue": 160,
+          "MaxExtraValue": 314
+        },
+        {
+          "MinBaseValue": 864,
+          "MaxBaseValue": 2225,
+          "MinExtraValue": 173,
+          "MaxExtraValue": 334
+        },
+        {
+          "MinBaseValue": 907,
+          "MaxBaseValue": 2354,
+          "MinExtraValue": 181,
+          "MaxExtraValue": 353
+        }
+      ]
+    },
+    "17": {
+      "AttrType": 23,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 17,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 54,
+          "MaxBaseValue": 140,
+          "MinExtraValue": 11,
+          "MaxExtraValue": 21
+        },
+        {
+          "MinBaseValue": 108,
+          "MaxBaseValue": 281,
+          "MinExtraValue": 22,
+          "MaxExtraValue": 42
+        },
+        {
+          "MinBaseValue": 194,
+          "MaxBaseValue": 497,
+          "MinExtraValue": 39,
+          "MaxExtraValue": 75
+        },
+        {
+          "MinBaseValue": 302,
+          "MaxBaseValue": 756,
+          "MinExtraValue": 60,
+          "MaxExtraValue": 113
+        },
+        {
+          "MinBaseValue": 432,
+          "MaxBaseValue": 1102,
+          "MinExtraValue": 86,
+          "MaxExtraValue": 165
+        },
+        {
+          "MinBaseValue": 583,
+          "MaxBaseValue": 1534,
+          "MinExtraValue": 117,
+          "MaxExtraValue": 230
+        },
+        {
+          "MinBaseValue": 799,
+          "MaxBaseValue": 2095,
+          "MinExtraValue": 160,
+          "MaxExtraValue": 314
+        },
+        {
+          "MinBaseValue": 864,
+          "MaxBaseValue": 2225,
+          "MinExtraValue": 173,
+          "MaxExtraValue": 334
+        },
+        {
+          "MinBaseValue": 907,
+          "MaxBaseValue": 2354,
+          "MinExtraValue": 181,
+          "MaxExtraValue": 353
+        }
+      ]
+    },
+    "18": {
+      "AttrType": 25,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 18,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 54,
+          "MaxBaseValue": 140,
+          "MinExtraValue": 11,
+          "MaxExtraValue": 21
+        },
+        {
+          "MinBaseValue": 108,
+          "MaxBaseValue": 281,
+          "MinExtraValue": 22,
+          "MaxExtraValue": 42
+        },
+        {
+          "MinBaseValue": 194,
+          "MaxBaseValue": 497,
+          "MinExtraValue": 39,
+          "MaxExtraValue": 75
+        },
+        {
+          "MinBaseValue": 302,
+          "MaxBaseValue": 756,
+          "MinExtraValue": 60,
+          "MaxExtraValue": 113
+        },
+        {
+          "MinBaseValue": 432,
+          "MaxBaseValue": 1102,
+          "MinExtraValue": 86,
+          "MaxExtraValue": 165
+        },
+        {
+          "MinBaseValue": 583,
+          "MaxBaseValue": 1534,
+          "MinExtraValue": 117,
+          "MaxExtraValue": 230
+        },
+        {
+          "MinBaseValue": 799,
+          "MaxBaseValue": 2095,
+          "MinExtraValue": 160,
+          "MaxExtraValue": 314
+        },
+        {
+          "MinBaseValue": 864,
+          "MaxBaseValue": 2225,
+          "MinExtraValue": 173,
+          "MaxExtraValue": 334
+        },
+        {
+          "MinBaseValue": 907,
+          "MaxBaseValue": 2354,
+          "MinExtraValue": 181,
+          "MaxExtraValue": 353
+        }
+      ]
+    },
+    "19": {
+      "AttrType": 22,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 19,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 54,
+          "MaxBaseValue": 140,
+          "MinExtraValue": 11,
+          "MaxExtraValue": 21
+        },
+        {
+          "MinBaseValue": 108,
+          "MaxBaseValue": 281,
+          "MinExtraValue": 22,
+          "MaxExtraValue": 42
+        },
+        {
+          "MinBaseValue": 194,
+          "MaxBaseValue": 497,
+          "MinExtraValue": 39,
+          "MaxExtraValue": 75
+        },
+        {
+          "MinBaseValue": 302,
+          "MaxBaseValue": 756,
+          "MinExtraValue": 60,
+          "MaxExtraValue": 113
+        },
+        {
+          "MinBaseValue": 432,
+          "MaxBaseValue": 1102,
+          "MinExtraValue": 86,
+          "MaxExtraValue": 165
+        },
+        {
+          "MinBaseValue": 583,
+          "MaxBaseValue": 1534,
+          "MinExtraValue": 117,
+          "MaxExtraValue": 230
+        },
+        {
+          "MinBaseValue": 799,
+          "MaxBaseValue": 2095,
+          "MinExtraValue": 160,
+          "MaxExtraValue": 314
+        },
+        {
+          "MinBaseValue": 864,
+          "MaxBaseValue": 2225,
+          "MinExtraValue": 173,
+          "MaxExtraValue": 334
+        },
+        {
+          "MinBaseValue": 907,
+          "MaxBaseValue": 2354,
+          "MinExtraValue": 181,
+          "MaxExtraValue": 353
+        }
+      ]
+    },
+    "20": {
+      "AttrType": 29,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 20,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 54,
+          "MaxBaseValue": 140,
+          "MinExtraValue": 11,
+          "MaxExtraValue": 21
+        },
+        {
+          "MinBaseValue": 108,
+          "MaxBaseValue": 281,
+          "MinExtraValue": 22,
+          "MaxExtraValue": 42
+        },
+        {
+          "MinBaseValue": 194,
+          "MaxBaseValue": 497,
+          "MinExtraValue": 39,
+          "MaxExtraValue": 75
+        },
+        {
+          "MinBaseValue": 302,
+          "MaxBaseValue": 756,
+          "MinExtraValue": 60,
+          "MaxExtraValue": 113
+        },
+        {
+          "MinBaseValue": 432,
+          "MaxBaseValue": 1102,
+          "MinExtraValue": 86,
+          "MaxExtraValue": 165
+        },
+        {
+          "MinBaseValue": 583,
+          "MaxBaseValue": 1534,
+          "MinExtraValue": 117,
+          "MaxExtraValue": 230
+        },
+        {
+          "MinBaseValue": 799,
+          "MaxBaseValue": 2095,
+          "MinExtraValue": 160,
+          "MaxExtraValue": 314
+        },
+        {
+          "MinBaseValue": 864,
+          "MaxBaseValue": 2225,
+          "MinExtraValue": 173,
+          "MaxExtraValue": 334
+        },
+        {
+          "MinBaseValue": 907,
+          "MaxBaseValue": 2354,
+          "MinExtraValue": 181,
+          "MaxExtraValue": 353
+        }
+      ]
+    },
+    "21": {
+      "AttrType": 28,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 21,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 54,
+          "MaxBaseValue": 140,
+          "MinExtraValue": 11,
+          "MaxExtraValue": 21
+        },
+        {
+          "MinBaseValue": 108,
+          "MaxBaseValue": 281,
+          "MinExtraValue": 22,
+          "MaxExtraValue": 42
+        },
+        {
+          "MinBaseValue": 194,
+          "MaxBaseValue": 497,
+          "MinExtraValue": 39,
+          "MaxExtraValue": 75
+        },
+        {
+          "MinBaseValue": 302,
+          "MaxBaseValue": 756,
+          "MinExtraValue": 60,
+          "MaxExtraValue": 113
+        },
+        {
+          "MinBaseValue": 432,
+          "MaxBaseValue": 1102,
+          "MinExtraValue": 86,
+          "MaxExtraValue": 165
+        },
+        {
+          "MinBaseValue": 583,
+          "MaxBaseValue": 1534,
+          "MinExtraValue": 117,
+          "MaxExtraValue": 230
+        },
+        {
+          "MinBaseValue": 799,
+          "MaxBaseValue": 2095,
+          "MinExtraValue": 160,
+          "MaxExtraValue": 314
+        },
+        {
+          "MinBaseValue": 864,
+          "MaxBaseValue": 2225,
+          "MinExtraValue": 173,
+          "MaxExtraValue": 334
+        },
+        {
+          "MinBaseValue": 907,
+          "MaxBaseValue": 2354,
+          "MinExtraValue": 181,
+          "MaxExtraValue": 353
+        }
+      ]
+    },
+    "22": {
+      "AttrType": 26,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 22,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 54,
+          "MaxBaseValue": 140,
+          "MinExtraValue": 11,
+          "MaxExtraValue": 21
+        },
+        {
+          "MinBaseValue": 108,
+          "MaxBaseValue": 281,
+          "MinExtraValue": 22,
+          "MaxExtraValue": 42
+        },
+        {
+          "MinBaseValue": 194,
+          "MaxBaseValue": 497,
+          "MinExtraValue": 39,
+          "MaxExtraValue": 75
+        },
+        {
+          "MinBaseValue": 302,
+          "MaxBaseValue": 756,
+          "MinExtraValue": 60,
+          "MaxExtraValue": 113
+        },
+        {
+          "MinBaseValue": 432,
+          "MaxBaseValue": 1102,
+          "MinExtraValue": 86,
+          "MaxExtraValue": 165
+        },
+        {
+          "MinBaseValue": 583,
+          "MaxBaseValue": 1534,
+          "MinExtraValue": 117,
+          "MaxExtraValue": 230
+        },
+        {
+          "MinBaseValue": 799,
+          "MaxBaseValue": 2095,
+          "MinExtraValue": 160,
+          "MaxExtraValue": 314
+        },
+        {
+          "MinBaseValue": 864,
+          "MaxBaseValue": 2225,
+          "MinExtraValue": 173,
+          "MaxExtraValue": 334
+        },
+        {
+          "MinBaseValue": 907,
+          "MaxBaseValue": 2354,
+          "MinExtraValue": 181,
+          "MaxExtraValue": 353
+        }
+      ]
+    },
+    "23": {
+      "AttrType": 27,
+      "RandomSize": 1,
+      "KFAttrType": 0,
+      "BaseID": 23,
+      "RandomBase": [
+        {
+          "MinBaseValue": 0,
+          "MaxBaseValue": 0,
+          "MinExtraValue": 0,
+          "MaxExtraValue": 0
+        },
+        {
+          "MinBaseValue": 54,
+          "MaxBaseValue": 140,
+          "MinExtraValue": 11,
+          "MaxExtraValue": 21
+        },
+        {
+          "MinBaseValue": 108,
+          "MaxBaseValue": 281,
+          "MinExtraValue": 22,
+          "MaxExtraValue": 42
+        },
+        {
+          "MinBaseValue": 194,
+          "MaxBaseValue": 497,
+          "MinExtraValue": 39,
+          "MaxExtraValue": 75
+        },
+        {
+          "MinBaseValue": 302,
+          "MaxBaseValue": 756,
+          "MinExtraValue": 60,
+          "MaxExtraValue": 113
+        },
+        {
+          "MinBaseValue": 432,
+          "MaxBaseValue": 1102,
+          "MinExtraValue": 86,
+          "MaxExtraValue": 165
+        },
+        {
+          "MinBaseValue": 583,
+          "MaxBaseValue": 1534,
+          "MinExtraValue": 117,
+          "MaxExtraValue": 230
+        },
+        {
+          "MinBaseValue": 799,
+          "MaxBaseValue": 2095,
+          "MinExtraValue": 160,
+          "MaxExtraValue": 314
+        },
+        {
+          "MinBaseValue": 864,
+          "MaxBaseValue": 2225,
+          "MinExtraValue": 173,
+          "MaxExtraValue": 334
+        },
+        {
+          "MinBaseValue": 907,
+          "MaxBaseValue": 2354,
+          "MinExtraValue": 181,
+          "MaxExtraValue": 353
+        }
+      ]
+    }
+  },
+  "martial_growth": {
+    "12301": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52561
+      ]
+    },
+    "12302": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52422,
+        52442
+      ]
+    },
+    "12303": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52424,
+        52444
+      ]
+    },
+    "12304": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52425,
+        52445
+      ]
+    },
+    "12305": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52577
+      ]
+    },
+    "12306": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52563
+      ]
+    },
+    "12307": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52565
+      ]
+    },
+    "12308": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52535
+      ]
+    },
+    "12309": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52531
+      ]
+    },
+    "12310": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52533
+      ]
+    },
+    "12311": {
+      "DepartEnum": 13,
+      "GrowProIDs": [
+        52442
+      ]
+    },
+    "12312": {
+      "DepartEnum": 13,
+      "GrowProIDs": [
+        52447
+      ]
+    },
+    "12313": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52567
+      ]
+    },
+    "12314": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "12315": {
+      "DepartEnum": 2,
+      "GrowProIDs": []
+    },
+    "12316": {
+      "DepartEnum": 1,
+      "GrowProIDs": []
+    },
+    "12317": {
+      "DepartEnum": 1,
+      "GrowProIDs": []
+    },
+    "12318": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "12319": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12320": {
+      "DepartEnum": 13,
+      "GrowProIDs": [
+        52447
+      ]
+    },
+    "12321": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "11307": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52556
+      ]
+    },
+    "11308": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52552
+      ]
+    },
+    "11309": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52446,
+        52426
+      ]
+    },
+    "11310": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52442,
+        52422
+      ]
+    },
+    "11311": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52577
+      ]
+    },
+    "11312": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52414,
+        52424
+      ]
+    },
+    "11314": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "11315": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "11316": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52523
+      ]
+    },
+    "11317": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52514
+      ]
+    },
+    "11318": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "11319": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52547
+      ]
+    },
+    "11320": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52543
+      ]
+    },
+    "11321": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52545
+      ]
+    },
+    "11322": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52554
+      ]
+    },
+    "11324": {
+      "DepartEnum": 8,
+      "GrowProIDs": []
+    },
+    "10301": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52563
+      ]
+    },
+    "10302": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52422
+      ]
+    },
+    "10303": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52521
+      ]
+    },
+    "10304": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52523
+      ]
+    },
+    "10305": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52525
+      ]
+    },
+    "10306": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "10307": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52442,
+        52422
+      ]
+    },
+    "10308": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52416,
+        52426
+      ]
+    },
+    "10309": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52447,
+        52427
+      ]
+    },
+    "10310": {
+      "DepartEnum": 13,
+      "GrowProIDs": [
+        52446
+      ]
+    },
+    "10311": {
+      "DepartEnum": 9,
+      "GrowProIDs": [
+        52581
+      ]
+    },
+    "10312": {
+      "DepartEnum": 9,
+      "GrowProIDs": [
+        52584
+      ]
+    },
+    "10313": {
+      "DepartEnum": 9,
+      "GrowProIDs": [
+        52583
+      ]
+    },
+    "10314": {
+      "DepartEnum": 9,
+      "GrowProIDs": [
+        52582
+      ]
+    },
+    "10315": {
+      "DepartEnum": 9,
+      "GrowProIDs": [
+        50162
+      ]
+    },
+    "10316": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "10317": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "10318": {
+      "DepartEnum": 9,
+      "GrowProIDs": []
+    },
+    "10319": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52573
+      ]
+    },
+    "10320": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52577
+      ]
+    },
+    "10321": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52575
+      ]
+    },
+    "10322": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52565
+      ]
+    },
+    "10323": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52567
+      ]
+    },
+    "10324": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52561
+      ]
+    },
+    "10325": {
+      "DepartEnum": 9,
+      "GrowProIDs": [
+        52587
+      ]
+    },
+    "10326": {
+      "DepartEnum": 9,
+      "GrowProIDs": [
+        164
+      ]
+    },
+    "12401": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12402": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52516
+      ]
+    },
+    "12403": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "12404": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52514
+      ]
+    },
+    "12405": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52513
+      ]
+    },
+    "12406": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52512
+      ]
+    },
+    "12407": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12408": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52425,
+        52445
+      ]
+    },
+    "12409": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52422,
+        52442
+      ]
+    },
+    "12410": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "11402": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52543
+      ]
+    },
+    "11403": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52533
+      ]
+    },
+    "11405": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52442,
+        52422
+      ]
+    },
+    "11406": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52541
+      ]
+    },
+    "11407": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52577
+      ]
+    },
+    "11408": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52535
+      ]
+    },
+    "11409": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52536
+      ]
+    },
+    "11410": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52532
+      ]
+    },
+    "11411": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "11412": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52513
+      ]
+    },
+    "11413": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11414": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52556
+      ]
+    },
+    "11415": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "10401": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52531
+      ]
+    },
+    "10402": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52533
+      ]
+    },
+    "10403": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52534
+      ]
+    },
+    "10404": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52536
+      ]
+    },
+    "10405": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52534
+      ]
+    },
+    "10406": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52552
+      ]
+    },
+    "10407": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52553
+      ]
+    },
+    "10408": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52555
+      ]
+    },
+    "10409": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "10410": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52442,
+        52422
+      ]
+    },
+    "10411": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52424,
+        52414
+      ]
+    },
+    "10412": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52576
+      ]
+    },
+    "10413": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52435,
+        52425
+      ]
+    },
+    "10414": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52437,
+        52427
+      ]
+    },
+    "10415": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52443,
+        52423
+      ]
+    },
+    "10416": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "10417": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52513
+      ]
+    },
+    "10418": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "10419": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "10420": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52574
+      ]
+    },
+    "10421": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52546
+      ]
+    },
+    "10422": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52544
+      ]
+    },
+    "10424": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52542
+      ]
+    },
+    "10425": {
+      "DepartEnum": 13,
+      "GrowProIDs": [
+        52444,
+        52424
+      ]
+    },
+    "10426": {
+      "DepartEnum": 13,
+      "GrowProIDs": [
+        52446
+      ]
+    },
+    "10428": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "10429": {
+      "DepartEnum": 8,
+      "GrowProIDs": []
+    },
+    "10430": {
+      "DepartEnum": 5,
+      "GrowProIDs": []
+    },
+    "10431": {
+      "DepartEnum": 2,
+      "GrowProIDs": []
+    },
+    "10432": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "12501": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52561
+      ]
+    },
+    "12502": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52562
+      ]
+    },
+    "12503": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52563
+      ]
+    },
+    "12504": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52564
+      ]
+    },
+    "12505": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52565
+      ]
+    },
+    "12506": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52566
+      ]
+    },
+    "12507": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52567
+      ]
+    },
+    "12508": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52423,
+        52443
+      ]
+    },
+    "12509": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52426,
+        52446
+      ]
+    },
+    "12510": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "11501": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52555
+      ]
+    },
+    "11502": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52551
+      ]
+    },
+    "11503": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52553
+      ]
+    },
+    "11504": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52555
+      ]
+    },
+    "11505": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "11506": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52553
+      ]
+    },
+    "11507": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52553
+      ]
+    },
+    "11508": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52446,
+        52426
+      ]
+    },
+    "11509": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52572,
+        52422
+      ]
+    },
+    "11510": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52414,
+        52424
+      ]
+    },
+    "11511": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52416,
+        52426
+      ]
+    },
+    "11512": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52516
+      ]
+    },
+    "11513": {
+      "DepartEnum": 5,
+      "GrowProIDs": []
+    },
+    "11514": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52424,
+        52444
+      ]
+    },
+    "11515": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52422,
+        52442
+      ]
+    },
+    "10501": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52421
+      ]
+    },
+    "10502": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52424
+      ]
+    },
+    "10503": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52522
+      ]
+    },
+    "10504": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52524
+      ]
+    },
+    "10505": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52526
+      ]
+    },
+    "10506": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "10507": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52442,
+        52422
+      ]
+    },
+    "10508": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52415,
+        52425
+      ]
+    },
+    "10509": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52576
+      ]
+    },
+    "10510": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52447,
+        52427
+      ]
+    },
+    "10511": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "10512": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52512
+      ]
+    },
+    "10513": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52513
+      ]
+    },
+    "10514": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52514
+      ]
+    },
+    "10515": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "10516": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "10517": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52516
+      ]
+    },
+    "10518": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "10519": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52523
+      ]
+    },
+    "10520": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "10521": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "10522": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "10523": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "10524": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "10525": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "10526": {
+      "DepartEnum": 13,
+      "GrowProIDs": [
+        52446
+      ]
+    },
+    "12601": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52551
+      ]
+    },
+    "12602": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52552
+      ]
+    },
+    "12603": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52553
+      ]
+    },
+    "12604": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52554
+      ]
+    },
+    "12605": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52555
+      ]
+    },
+    "12606": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52556
+      ]
+    },
+    "12607": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "12608": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "12609": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52422,
+        52442
+      ]
+    },
+    "12610": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12611": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52425,
+        52445
+      ]
+    },
+    "12612": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52421,
+        52441
+      ]
+    },
+    "12613": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52421,
+        52441
+      ]
+    },
+    "11601": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52552
+      ]
+    },
+    "11602": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52521
+      ]
+    },
+    "11603": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52523
+      ]
+    },
+    "11604": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52525
+      ]
+    },
+    "11605": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "11606": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52441,
+        52421
+      ]
+    },
+    "11607": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52443,
+        52423
+      ]
+    },
+    "11608": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52445,
+        52425
+      ]
+    },
+    "11609": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52532
+      ]
+    },
+    "11610": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52534
+      ]
+    },
+    "11611": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52536
+      ]
+    },
+    "11612": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52556
+      ]
+    },
+    "11613": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52554
+      ]
+    },
+    "11614": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52447,
+        52427
+      ]
+    },
+    "11615": {
+      "DepartEnum": 2,
+      "GrowProIDs": []
+    },
+    "11616": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "11617": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "11618": {
+      "DepartEnum": 5,
+      "GrowProIDs": []
+    },
+    "11619": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "11620": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "10601": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52521
+      ]
+    },
+    "10602": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52525
+      ]
+    },
+    "10603": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "10604": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52442,
+        52422
+      ]
+    },
+    "10605": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52445,
+        52425
+      ]
+    },
+    "10606": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52446,
+        52426
+      ]
+    },
+    "10607": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "10608": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52523
+      ]
+    },
+    "10609": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52513
+      ]
+    },
+    "10610": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "10611": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "10612": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "10613": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "10614": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "10615": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "10616": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52551
+      ]
+    },
+    "10617": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52425
+      ]
+    },
+    "12705": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52551
+      ]
+    },
+    "12706": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52553
+      ]
+    },
+    "12707": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52555
+      ]
+    },
+    "12708": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "12709": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52521
+      ]
+    },
+    "12710": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52523
+      ]
+    },
+    "12711": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52525
+      ]
+    },
+    "12712": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "12713": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12714": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52521
+      ]
+    },
+    "12715": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52523
+      ]
+    },
+    "12716": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52525
+      ]
+    },
+    "12717": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "12718": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52521
+      ]
+    },
+    "12719": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52523
+      ]
+    },
+    "12720": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52525
+      ]
+    },
+    "12721": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "12722": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52574
+      ]
+    },
+    "12723": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52445,
+        52575
+      ]
+    },
+    "12724": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52576
+      ]
+    },
+    "11701": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52551
+      ]
+    },
+    "11702": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52553
+      ]
+    },
+    "11703": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52555
+      ]
+    },
+    "11704": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52521
+      ]
+    },
+    "12729": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "11706": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52425,
+        52445
+      ]
+    },
+    "11707": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52442,
+        52422
+      ]
+    },
+    "11708": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52441,
+        52421
+      ]
+    },
+    "11709": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52444,
+        52424
+      ]
+    },
+    "11710": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52577
+      ]
+    },
+    "11711": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52512
+      ]
+    },
+    "11712": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52514
+      ]
+    },
+    "11713": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52516
+      ]
+    },
+    "11714": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11715": {
+      "DepartEnum": 5,
+      "GrowProIDs": []
+    },
+    "11716": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "11717": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "11718": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52532
+      ]
+    },
+    "11719": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52534
+      ]
+    },
+    "11720": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52536
+      ]
+    },
+    "11721": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "11722": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "11723": {
+      "DepartEnum": 5,
+      "GrowProIDs": []
+    },
+    "11724": {
+      "DepartEnum": 2,
+      "GrowProIDs": []
+    },
+    "10701": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52521
+      ]
+    },
+    "10702": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52523
+      ]
+    },
+    "10703": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52522
+      ]
+    },
+    "10704": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52524
+      ]
+    },
+    "10705": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52525
+      ]
+    },
+    "10706": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52526
+      ]
+    },
+    "10707": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "10708": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52421,
+        52441
+      ]
+    },
+    "10709": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52415,
+        52445
+      ]
+    },
+    "10710": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52417,
+        52447
+      ]
+    },
+    "10711": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "10712": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52514
+      ]
+    },
+    "10713": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52516
+      ]
+    },
+    "10714": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52533
+      ]
+    },
+    "10715": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "10716": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "10717": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "10718": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "10719": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52413,
+        52443
+      ]
+    },
+    "10720": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "10721": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "10722": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52426
+      ]
+    },
+    "12772": {
+      "DepartEnum": 9,
+      "GrowProIDs": [
+        50162
+      ]
+    },
+    "12773": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52421,
+        52441
+      ]
+    },
+    "12774": {
+      "DepartEnum": 9,
+      "GrowProIDs": [
+        50162
+      ]
+    },
+    "12775": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12779": {
+      "DepartEnum": 9,
+      "GrowProIDs": [
+        50162
+      ]
+    },
+    "12780": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52421,
+        52441
+      ]
+    },
+    "12781": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12782": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12783": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12784": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52577
+      ]
+    },
+    "12785": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "12786": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "12787": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52547
+      ]
+    },
+    "12788": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "12789": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52526
+      ]
+    },
+    "12790": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12791": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52566
+      ]
+    },
+    "12792": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52424,
+        52414
+      ]
+    },
+    "12793": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52577
+      ]
+    },
+    "12794": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "12795": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "12796": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52547
+      ]
+    },
+    "12801": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "12802": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52536
+      ]
+    },
+    "12803": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52534
+      ]
+    },
+    "12804": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52533
+      ]
+    },
+    "12805": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52531
+      ]
+    },
+    "12806": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12807": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "12808": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52514
+      ]
+    },
+    "12809": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52513
+      ]
+    },
+    "12810": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "12811": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12812": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52425,
+        52445
+      ]
+    },
+    "12813": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52424,
+        52444
+      ]
+    },
+    "12814": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52423,
+        52443
+      ]
+    },
+    "12815": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52421,
+        52441
+      ]
+    },
+    "12816": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "12817": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "12818": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52521
+      ]
+    },
+    "12819": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52526
+      ]
+    },
+    "12820": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "12821": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "12822": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12823": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "11801": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52534
+      ]
+    },
+    "11802": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "11803": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52532
+      ]
+    },
+    "11804": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52526
+      ]
+    },
+    "11805": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52524
+      ]
+    },
+    "11806": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52445,
+        52425
+      ]
+    },
+    "11807": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52446,
+        52426
+      ]
+    },
+    "11808": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52447,
+        52427
+      ]
+    },
+    "11809": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52443,
+        52423
+      ]
+    },
+    "11810": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52441,
+        52421
+      ]
+    },
+    "11811": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52513
+      ]
+    },
+    "11812": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "11813": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "11814": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "11815": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52522
+      ]
+    },
+    "11816": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "11817": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11818": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11819": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11820": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11821": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11822": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52411,
+        52421
+      ]
+    },
+    "11823": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52411,
+        52421
+      ]
+    },
+    "11824": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52532
+      ]
+    },
+    "10801": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52423
+      ]
+    },
+    "10802": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52521
+      ]
+    },
+    "10803": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52523
+      ]
+    },
+    "10804": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52526
+      ]
+    },
+    "10805": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52442,
+        52422
+      ]
+    },
+    "10806": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52447,
+        52427
+      ]
+    },
+    "10807": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52512
+      ]
+    },
+    "10808": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52514
+      ]
+    },
+    "10809": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "10810": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "11835": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "10812": {
+      "DepartEnum": 13,
+      "GrowProIDs": [
+        52446
+      ]
+    },
+    "10813": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52445,
+        52425
+      ]
+    },
+    "10814": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "10815": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "10816": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "10817": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "10818": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "10819": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "10820": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52447,
+        52427
+      ]
+    },
+    "10821": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "10822": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52577
+      ]
+    },
+    "10823": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52577
+      ]
+    },
+    "10824": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52577
+      ]
+    },
+    "10825": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52547
+      ]
+    },
+    "10826": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        164
+      ]
+    },
+    "10827": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "10828": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "10829": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        164
+      ]
+    },
+    "10830": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52567
+      ]
+    },
+    "10831": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "10832": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "10833": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52427
+      ]
+    },
+    "10834": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "10835": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "10836": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "10837": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "10838": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "10839": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52547
+      ]
+    },
+    "10840": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52547
+      ]
+    },
+    "10841": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52417,
+        52427
+      ]
+    },
+    "10842": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        164
+      ]
+    },
+    "12901": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52526
+      ]
+    },
+    "12902": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52524
+      ]
+    },
+    "12903": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52523
+      ]
+    },
+    "12904": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52521
+      ]
+    },
+    "12905": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52547
+      ]
+    },
+    "10858": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "10859": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "10860": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "10861": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "10862": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52427
+      ]
+    },
+    "12911": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52425,
+        52445
+      ]
+    },
+    "12912": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52424,
+        52444
+      ]
+    },
+    "12913": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52423,
+        52443
+      ]
+    },
+    "12914": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52571
+      ]
+    },
+    "12915": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12916": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "12917": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52513
+      ]
+    },
+    "12918": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "12919": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12920": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "12921": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52567
+      ]
+    },
+    "12922": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "12923": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "12924": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "11901": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52562
+      ]
+    },
+    "11902": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52534
+      ]
+    },
+    "12927": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12928": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "11905": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52536
+      ]
+    },
+    "11906": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52551
+      ]
+    },
+    "11907": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52553
+      ]
+    },
+    "11908": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52443,
+        52423
+      ]
+    },
+    "11909": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52447,
+        52427
+      ]
+    },
+    "11910": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52441,
+        52421
+      ]
+    },
+    "11911": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52575
+      ]
+    },
+    "11912": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52555
+      ]
+    },
+    "11913": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "11914": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52513
+      ]
+    },
+    "12939": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52567
+      ]
+    },
+    "11916": {
+      "DepartEnum": 9,
+      "GrowProIDs": [
+        52583
+      ]
+    },
+    "11917": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "11918": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52426,
+        52446
+      ]
+    },
+    "11919": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "11920": {
+      "DepartEnum": 2,
+      "GrowProIDs": []
+    },
+    "11921": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "11922": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52532
+      ]
+    },
+    "11923": {
+      "DepartEnum": 2,
+      "GrowProIDs": []
+    },
+    "11924": {
+      "DepartEnum": 5,
+      "GrowProIDs": []
+    },
+    "11925": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "11926": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "11927": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52444,
+        52424
+      ]
+    },
+    "12952": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12953": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52567
+      ]
+    },
+    "12954": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "12951": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "12950": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "12949": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52427
+      ]
+    },
+    "12948": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52447,
+        52427
+      ]
+    },
+    "12947": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52577
+      ]
+    },
+    "12946": {
+      "DepartEnum": 1,
+      "GrowProIDs": []
+    },
+    "12945": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52577
+      ]
+    },
+    "12944": {
+      "DepartEnum": 9,
+      "GrowProIDs": [
+        164
+      ]
+    },
+    "12943": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "12942": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "12941": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52546
+      ]
+    },
+    "12940": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12938": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12937": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12936": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12935": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12934": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12933": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12932": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12931": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12930": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12929": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12926": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "12925": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "12910": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12909": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52541
+      ]
+    },
+    "12908": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52543
+      ]
+    },
+    "12907": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52544
+      ]
+    },
+    "12906": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52545
+      ]
+    },
+    "12770": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52567
+      ]
+    },
+    "12769": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52575
+      ]
+    },
+    "12768": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52531
+      ]
+    },
+    "12767": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52541
+      ]
+    },
+    "12766": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "12765": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52427,
+        52447
+      ]
+    },
+    "12764": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12763": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "12762": {
+      "DepartEnum": 9,
+      "GrowProIDs": [
+        52587
+      ]
+    },
+    "12761": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52565
+      ]
+    },
+    "12760": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52567
+      ]
+    },
+    "12759": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52513
+      ]
+    },
+    "12758": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "12757": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "12756": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52577
+      ]
+    },
+    "12754": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52421,
+        52441
+      ]
+    },
+    "12753": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12752": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12751": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "12750": {
+      "DepartEnum": 1,
+      "GrowProIDs": []
+    },
+    "12749": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12748": {
+      "DepartEnum": 1,
+      "GrowProIDs": []
+    },
+    "12747": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52421,
+        52441
+      ]
+    },
+    "12745": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "12744": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52421,
+        52441
+      ]
+    },
+    "12743": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "12742": {
+      "DepartEnum": 1,
+      "GrowProIDs": []
+    },
+    "12741": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52567
+      ]
+    },
+    "12740": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52565
+      ]
+    },
+    "12739": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52563
+      ]
+    },
+    "12738": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52561
+      ]
+    },
+    "12737": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12736": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "12735": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52513
+      ]
+    },
+    "12734": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "12733": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12732": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "12731": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52513
+      ]
+    },
+    "12730": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "12728": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "12727": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52513
+      ]
+    },
+    "12001": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52566
+      ]
+    },
+    "12002": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52443,
+        52423
+      ]
+    },
+    "12003": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52444,
+        52424
+      ]
+    },
+    "12004": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52417,
+        52437
+      ]
+    },
+    "12726": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "12725": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52577
+      ]
+    },
+    "12234": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52567
+      ]
+    },
+    "12233": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "12009": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52554
+      ]
+    },
+    "12010": {
+      "DepartEnum": 9,
+      "GrowProIDs": [
+        52583
+      ]
+    },
+    "12232": {
+      "DepartEnum": 5,
+      "GrowProIDs": []
+    },
+    "12231": {
+      "DepartEnum": 0,
+      "GrowProIDs": []
+    },
+    "12230": {
+      "DepartEnum": 0,
+      "GrowProIDs": []
+    },
+    "12229": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "12228": {
+      "DepartEnum": 2,
+      "GrowProIDs": []
+    },
+    "12227": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52421
+      ]
+    },
+    "12225": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11230": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52425
+      ]
+    },
+    "11325": {
+      "DepartEnum": 8,
+      "GrowProIDs": []
+    },
+    "11328": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "11725": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "11726": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52447,
+        52427
+      ]
+    },
+    "11727": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "11728": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52567
+      ]
+    },
+    "11001": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52426
+      ]
+    },
+    "11002": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52442,
+        52422
+      ]
+    },
+    "11003": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52575
+      ]
+    },
+    "11004": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52576
+      ]
+    },
+    "11005": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52576
+      ]
+    },
+    "11006": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52447,
+        52427
+      ]
+    },
+    "11007": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "11008": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52513
+      ]
+    },
+    "11009": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52514
+      ]
+    },
+    "11010": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52516
+      ]
+    },
+    "11011": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "11012": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52546
+      ]
+    },
+    "11013": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "11014": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52544
+      ]
+    },
+    "11015": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52542
+      ]
+    },
+    "11016": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11017": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11018": {
+      "DepartEnum": 8,
+      "GrowProIDs": []
+    },
+    "11019": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "11020": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52561
+      ]
+    },
+    "11021": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52567
+      ]
+    },
+    "11022": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52565
+      ]
+    },
+    "11023": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52563
+      ]
+    },
+    "11024": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11025": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52547
+      ]
+    },
+    "11729": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "11825": {
+      "DepartEnum": 2,
+      "GrowProIDs": []
+    },
+    "11826": {
+      "DepartEnum": 2,
+      "GrowProIDs": []
+    },
+    "11827": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52534
+      ]
+    },
+    "11828": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "11829": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11830": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "11831": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "11832": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "11833": {
+      "DepartEnum": 5,
+      "GrowProIDs": []
+    },
+    "11834": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "11836": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "11837": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "11838": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11839": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "11841": {
+      "DepartEnum": 9,
+      "GrowProIDs": []
+    },
+    "11842": {
+      "DepartEnum": 9,
+      "GrowProIDs": []
+    },
+    "11843": {
+      "DepartEnum": 9,
+      "GrowProIDs": []
+    },
+    "11844": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "11845": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11846": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11847": {
+      "DepartEnum": 2,
+      "GrowProIDs": []
+    },
+    "11848": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "11849": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "11850": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52426
+      ]
+    },
+    "11851": {
+      "DepartEnum": 13,
+      "GrowProIDs": [
+        52446
+      ]
+    },
+    "11852": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52447,
+        52427
+      ]
+    },
+    "11853": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12125": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52417,
+        52427
+      ]
+    },
+    "12126": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52447,
+        52427
+      ]
+    },
+    "12127": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52447,
+        52427
+      ]
+    },
+    "12128": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52576
+      ]
+    },
+    "12129": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52446,
+        52426
+      ]
+    },
+    "12130": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52441,
+        52421
+      ]
+    },
+    "12132": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52442,
+        52422
+      ]
+    },
+    "12133": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52573
+      ]
+    },
+    "12134": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52575
+      ]
+    },
+    "12170": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "12169": {
+      "DepartEnum": 6,
+      "GrowProIDs": []
+    },
+    "12168": {
+      "DepartEnum": 2,
+      "GrowProIDs": []
+    },
+    "12167": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "12163": {
+      "DepartEnum": 2,
+      "GrowProIDs": []
+    },
+    "12162": {
+      "DepartEnum": 2,
+      "GrowProIDs": []
+    },
+    "12161": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52442,
+        52422
+      ]
+    },
+    "12159": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "12158": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "12157": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "12156": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "12155": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "12154": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52531
+      ]
+    },
+    "12153": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52516
+      ]
+    },
+    "12101": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "12102": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52534
+      ]
+    },
+    "12103": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52536
+      ]
+    },
+    "12104": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52531
+      ]
+    },
+    "12105": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52532
+      ]
+    },
+    "12106": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52536
+      ]
+    },
+    "12107": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52551
+      ]
+    },
+    "12108": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52556
+      ]
+    },
+    "12109": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52526
+      ]
+    },
+    "12110": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52521
+      ]
+    },
+    "12111": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52522
+      ]
+    },
+    "12112": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52514
+      ]
+    },
+    "12113": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52535
+      ]
+    },
+    "12114": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52516
+      ]
+    },
+    "12115": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52514
+      ]
+    },
+    "12116": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52534
+      ]
+    },
+    "12117": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52532
+      ]
+    },
+    "12118": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52553
+      ]
+    },
+    "12119": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52562
+      ]
+    },
+    "12120": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52564
+      ]
+    },
+    "12121": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52424
+      ]
+    },
+    "12122": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52425
+      ]
+    },
+    "12123": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52525
+      ]
+    },
+    "12124": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52516
+      ]
+    },
+    "11101": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52531
+      ]
+    },
+    "11102": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52533
+      ]
+    },
+    "11103": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52535
+      ]
+    },
+    "11104": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "11105": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52423
+      ]
+    },
+    "11106": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52426,
+        52576
+      ]
+    },
+    "11107": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52442,
+        52422
+      ]
+    },
+    "11108": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52444,
+        52424
+      ]
+    },
+    "11109": {
+      "DepartEnum": 2,
+      "GrowProIDs": []
+    },
+    "11110": {
+      "DepartEnum": 2,
+      "GrowProIDs": []
+    },
+    "11111": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52417,
+        52437
+      ]
+    },
+    "11112": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52534
+      ]
+    },
+    "11113": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "11114": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "12139": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52577
+      ]
+    },
+    "12140": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12141": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "12142": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "12143": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52577
+      ]
+    },
+    "12144": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "12145": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52512
+      ]
+    },
+    "12146": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "12147": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52541
+      ]
+    },
+    "12148": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52542
+      ]
+    },
+    "10101": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52422
+      ]
+    },
+    "10102": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52551
+      ]
+    },
+    "10103": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52554
+      ]
+    },
+    "10104": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "10105": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52442,
+        52422
+      ]
+    },
+    "10106": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52444,
+        52424
+      ]
+    },
+    "10107": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "10108": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52513
+      ]
+    },
+    "10109": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "10110": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "10111": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52542
+      ]
+    },
+    "10112": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52544
+      ]
+    },
+    "10113": {
+      "DepartEnum": 13,
+      "GrowProIDs": [
+        52446
+      ]
+    },
+    "10114": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "10115": {
+      "DepartEnum": 5,
+      "GrowProIDs": []
+    },
+    "10116": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52551
+      ]
+    },
+    "10117": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "10118": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "10119": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "10120": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52541
+      ]
+    },
+    "10121": {
+      "DepartEnum": 5,
+      "GrowProIDs": []
+    },
+    "10122": {
+      "DepartEnum": 8,
+      "GrowProIDs": []
+    },
+    "10123": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "10124": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52546
+      ]
+    },
+    "12151": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52526
+      ]
+    },
+    "12138": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52576
+      ]
+    },
+    "12137": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52445,
+        52575
+      ]
+    },
+    "12136": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52573
+      ]
+    },
+    "12135": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52447,
+        52427
+      ]
+    },
+    "12178": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12179": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12180": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "12181": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "12182": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "12183": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "12184": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "12185": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52534
+      ]
+    },
+    "12186": {
+      "DepartEnum": 9,
+      "GrowProIDs": [
+        52583
+      ]
+    },
+    "12187": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "12188": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52433,
+        52423
+      ]
+    },
+    "12189": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52437,
+        52537
+      ]
+    },
+    "12190": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52417,
+        52557
+      ]
+    },
+    "12191": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52457,
+        52527
+      ]
+    },
+    "12192": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52417,
+        52567
+      ]
+    },
+    "12193": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52457,
+        52547
+      ]
+    },
+    "12194": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52417,
+        164
+      ]
+    },
+    "12195": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52417,
+        52577
+      ]
+    },
+    "12196": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52562
+      ]
+    },
+    "12197": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52537
+      ]
+    },
+    "12198": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52536
+      ]
+    },
+    "12199": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52437,
+        52517
+      ]
+    },
+    "11840": {
+      "DepartEnum": 9,
+      "GrowProIDs": []
+    },
+    "12201": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52531
+      ]
+    },
+    "12202": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52531
+      ]
+    },
+    "12203": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52531
+      ]
+    },
+    "12204": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52531
+      ]
+    },
+    "12205": {
+      "DepartEnum": 1,
+      "GrowProIDs": []
+    },
+    "12206": {
+      "DepartEnum": 8,
+      "GrowProIDs": []
+    },
+    "12207": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "12208": {
+      "DepartEnum": 2,
+      "GrowProIDs": []
+    },
+    "12209": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "12210": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52421
+      ]
+    },
+    "12211": {
+      "DepartEnum": 9,
+      "GrowProIDs": [
+        52441,
+        52421
+      ]
+    },
+    "12212": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52411,
+        52421
+      ]
+    },
+    "12213": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52551
+      ]
+    },
+    "12214": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52541
+      ]
+    },
+    "12215": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52561
+      ]
+    },
+    "12216": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52521
+      ]
+    },
+    "12217": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "12218": {
+      "DepartEnum": 1,
+      "GrowProIDs": []
+    },
+    "12219": {
+      "DepartEnum": 1,
+      "GrowProIDs": []
+    },
+    "12220": {
+      "DepartEnum": 2,
+      "GrowProIDs": [
+        52531
+      ]
+    },
+    "11327": {
+      "DepartEnum": 5,
+      "GrowProIDs": [
+        52557
+      ]
+    },
+    "11326": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52423
+      ]
+    },
+    "12223": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "12224": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11201": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52563
+      ]
+    },
+    "11202": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52567
+      ]
+    },
+    "11203": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52527
+      ]
+    },
+    "11204": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52521
+      ]
+    },
+    "11205": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52523
+      ]
+    },
+    "11206": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52525
+      ]
+    },
+    "11207": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52576
+      ]
+    },
+    "11208": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52417,
+        52457
+      ]
+    },
+    "11209": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52444,
+        52424
+      ]
+    },
+    "11210": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52442,
+        52422
+      ]
+    },
+    "11211": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52575
+      ]
+    },
+    "11212": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52565
+      ]
+    },
+    "11213": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52544
+      ]
+    },
+    "11214": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52546
+      ]
+    },
+    "11215": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52547
+      ]
+    },
+    "11216": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52542
+      ]
+    },
+    "11229": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52516
+      ]
+    },
+    "11218": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52522
+      ]
+    },
+    "11219": {
+      "DepartEnum": 1,
+      "GrowProIDs": []
+    },
+    "11220": {
+      "DepartEnum": 4,
+      "GrowProIDs": []
+    },
+    "11221": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "11222": {
+      "DepartEnum": 8,
+      "GrowProIDs": []
+    },
+    "11223": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "11224": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52512
+      ]
+    },
+    "10201": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52567
+      ]
+    },
+    "10202": {
+      "DepartEnum": 6,
+      "GrowProIDs": [
+        52426
+      ]
+    },
+    "10203": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52522
+      ]
+    },
+    "10204": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52524
+      ]
+    },
+    "10205": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52526
+      ]
+    },
+    "10206": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52523
+      ]
+    },
+    "10207": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52462,
+        52442
+      ]
+    },
+    "10208": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52466,
+        52446
+      ]
+    },
+    "10209": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52464,
+        52444
+      ]
+    },
+    "10210": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52511
+      ]
+    },
+    "10211": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52513
+      ]
+    },
+    "10212": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "10213": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "11228": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "10215": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "10216": {
+      "DepartEnum": 3,
+      "GrowProIDs": []
+    },
+    "10217": {
+      "DepartEnum": 7,
+      "GrowProIDs": []
+    },
+    "10218": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52566
+      ]
+    },
+    "10219": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52564
+      ]
+    },
+    "10220": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52562
+      ]
+    },
+    "10221": {
+      "DepartEnum": 1,
+      "GrowProIDs": []
+    },
+    "10222": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52546
+      ]
+    },
+    "10223": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52543
+      ]
+    },
+    "10224": {
+      "DepartEnum": 3,
+      "GrowProIDs": [
+        52526
+      ]
+    },
+    "10225": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52547
+      ]
+    },
+    "10226": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52445,
+        52425
+      ]
+    },
+    "10227": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52541
+      ]
+    },
+    "10228": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52577,
+        52427
+      ]
+    },
+    "10229": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52545
+      ]
+    },
+    "10230": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52547
+      ]
+    },
+    "10231": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52517
+      ]
+    },
+    "10232": {
+      "DepartEnum": 8,
+      "GrowProIDs": [
+        52544
+      ]
+    },
+    "10233": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52515
+      ]
+    },
+    "10234": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52444,
+        52424
+      ]
+    },
+    "10235": {
+      "DepartEnum": 8,
+      "GrowProIDs": []
+    },
+    "10236": {
+      "DepartEnum": 8,
+      "GrowProIDs": []
+    },
+    "11227": {
+      "DepartEnum": 7,
+      "GrowProIDs": [
+        52514
+      ]
+    },
+    "11226": {
+      "DepartEnum": 4,
+      "GrowProIDs": [
+        52417,
+        52437
+      ]
+    },
+    "11225": {
+      "DepartEnum": 1,
+      "GrowProIDs": [
+        52561
+      ]
+    }
+  },
+  "clauses": {
+    "164": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 7,
+      "DesID": 0,
+      "AttrEnum1": 15,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "BaseID": 164,
+      "Effect1Value": [
+        7
+      ]
+    },
+    "52411": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 1,
+      "DesID": 0,
+      "AttrEnum1": 6,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        4
+      ],
+      "BaseID": 52411
+    },
+    "52413": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 3,
+      "DesID": 0,
+      "AttrEnum1": 6,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        7
+      ],
+      "BaseID": 52413
+    },
+    "52414": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 4,
+      "DesID": 0,
+      "AttrEnum1": 6,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        8
+      ],
+      "BaseID": 52414
+    },
+    "52415": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 5,
+      "DesID": 0,
+      "AttrEnum1": 6,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        10
+      ],
+      "BaseID": 52415
+    },
+    "52416": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 6,
+      "DesID": 0,
+      "AttrEnum1": 6,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        13
+      ],
+      "BaseID": 52416
+    },
+    "52417": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 7,
+      "DesID": 0,
+      "AttrEnum1": 6,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "BaseID": 52417,
+      "Effect1Value": [
+        15
+      ]
+    },
+    "52421": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 1,
+      "DesID": 0,
+      "AttrEnum1": 4,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        4
+      ],
+      "BaseID": 52421
+    },
+    "52422": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 2,
+      "DesID": 0,
+      "AttrEnum1": 4,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        5
+      ],
+      "BaseID": 52422
+    },
+    "52423": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 3,
+      "DesID": 0,
+      "AttrEnum1": 4,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        7
+      ],
+      "BaseID": 52423
+    },
+    "52424": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 4,
+      "DesID": 0,
+      "AttrEnum1": 4,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        8
+      ],
+      "BaseID": 52424
+    },
+    "52425": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 5,
+      "DesID": 0,
+      "AttrEnum1": 4,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        10
+      ],
+      "BaseID": 52425
+    },
+    "52426": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 6,
+      "DesID": 0,
+      "AttrEnum1": 4,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        13
+      ],
+      "BaseID": 52426
+    },
+    "52427": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 7,
+      "DesID": 0,
+      "AttrEnum1": 4,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "BaseID": 52427,
+      "Effect1Value": [
+        15
+      ]
+    },
+    "52433": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 3,
+      "DesID": 0,
+      "AttrEnum1": 3,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        7
+      ],
+      "BaseID": 52433
+    },
+    "52435": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 5,
+      "DesID": 0,
+      "AttrEnum1": 3,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        10
+      ],
+      "BaseID": 52435
+    },
+    "52437": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 7,
+      "DesID": 0,
+      "AttrEnum1": 3,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "BaseID": 52437,
+      "Effect1Value": [
+        15
+      ]
+    },
+    "52441": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 1,
+      "DesID": 0,
+      "AttrEnum1": 5,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        4
+      ],
+      "BaseID": 52441
+    },
+    "52442": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 2,
+      "DesID": 0,
+      "AttrEnum1": 5,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        5
+      ],
+      "BaseID": 52442
+    },
+    "52443": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 3,
+      "DesID": 0,
+      "AttrEnum1": 5,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        7
+      ],
+      "BaseID": 52443
+    },
+    "52444": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 4,
+      "DesID": 0,
+      "AttrEnum1": 5,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        8
+      ],
+      "BaseID": 52444
+    },
+    "52445": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 5,
+      "DesID": 0,
+      "AttrEnum1": 5,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        10
+      ],
+      "BaseID": 52445
+    },
+    "52446": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 6,
+      "DesID": 0,
+      "AttrEnum1": 5,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        13
+      ],
+      "BaseID": 52446
+    },
+    "52447": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 7,
+      "DesID": 0,
+      "AttrEnum1": 5,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "BaseID": 52447,
+      "Effect1Value": [
+        15
+      ]
+    },
+    "52457": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 7,
+      "DesID": 0,
+      "AttrEnum1": 7,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "BaseID": 52457,
+      "Effect1Value": [
+        15
+      ]
+    },
+    "52462": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 2,
+      "DesID": 0,
+      "AttrEnum1": 8,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        5
+      ],
+      "BaseID": 52462
+    },
+    "52464": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 4,
+      "DesID": 0,
+      "AttrEnum1": 8,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        8
+      ],
+      "BaseID": 52464
+    },
+    "52466": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 6,
+      "DesID": 0,
+      "AttrEnum1": 8,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        13
+      ],
+      "BaseID": 52466
+    },
+    "52511": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 1,
+      "DesID": 0,
+      "AttrEnum1": 9,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        2
+      ],
+      "BaseID": 52511
+    },
+    "52512": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 2,
+      "DesID": 0,
+      "AttrEnum1": 9,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        3
+      ],
+      "BaseID": 52512
+    },
+    "52513": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 3,
+      "DesID": 0,
+      "AttrEnum1": 9,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        3
+      ],
+      "BaseID": 52513
+    },
+    "52514": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 4,
+      "DesID": 0,
+      "AttrEnum1": 9,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        4
+      ],
+      "BaseID": 52514
+    },
+    "52515": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 5,
+      "DesID": 0,
+      "AttrEnum1": 9,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        5
+      ],
+      "BaseID": 52515
+    },
+    "52516": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 6,
+      "DesID": 0,
+      "AttrEnum1": 9,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        6
+      ],
+      "BaseID": 52516
+    },
+    "52517": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 7,
+      "DesID": 0,
+      "AttrEnum1": 9,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "BaseID": 52517,
+      "Effect1Value": [
+        7
+      ]
+    },
+    "52521": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 1,
+      "DesID": 0,
+      "AttrEnum1": 10,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        2
+      ],
+      "BaseID": 52521
+    },
+    "52522": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 2,
+      "DesID": 0,
+      "AttrEnum1": 10,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        3
+      ],
+      "BaseID": 52522
+    },
+    "52523": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 3,
+      "DesID": 0,
+      "AttrEnum1": 10,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        3
+      ],
+      "BaseID": 52523
+    },
+    "52524": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 4,
+      "DesID": 0,
+      "AttrEnum1": 10,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        4
+      ],
+      "BaseID": 52524
+    },
+    "52525": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 5,
+      "DesID": 0,
+      "AttrEnum1": 10,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        5
+      ],
+      "BaseID": 52525
+    },
+    "52526": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 6,
+      "DesID": 0,
+      "AttrEnum1": 10,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        6
+      ],
+      "BaseID": 52526
+    },
+    "52527": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 7,
+      "DesID": 0,
+      "AttrEnum1": 10,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "BaseID": 52527,
+      "Effect1Value": [
+        7
+      ]
+    },
+    "52531": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 1,
+      "DesID": 0,
+      "AttrEnum1": 11,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        2
+      ],
+      "BaseID": 52531
+    },
+    "52532": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 2,
+      "DesID": 0,
+      "AttrEnum1": 11,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        3
+      ],
+      "BaseID": 52532
+    },
+    "52533": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 3,
+      "DesID": 0,
+      "AttrEnum1": 11,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        3
+      ],
+      "BaseID": 52533
+    },
+    "52534": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 4,
+      "DesID": 0,
+      "AttrEnum1": 11,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        4
+      ],
+      "BaseID": 52534
+    },
+    "52535": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 5,
+      "DesID": 0,
+      "AttrEnum1": 11,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        5
+      ],
+      "BaseID": 52535
+    },
+    "52536": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 6,
+      "DesID": 0,
+      "AttrEnum1": 11,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        6
+      ],
+      "BaseID": 52536
+    },
+    "52537": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 7,
+      "DesID": 0,
+      "AttrEnum1": 11,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "BaseID": 52537,
+      "Effect1Value": [
+        7
+      ]
+    },
+    "52541": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 7,
+      "Rank": 1,
+      "DesID": 0,
+      "AttrEnum1": 12,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        2
+      ],
+      "BaseID": 52541
+    },
+    "52542": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 2,
+      "DesID": 0,
+      "AttrEnum1": 12,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        3
+      ],
+      "BaseID": 52542
+    },
+    "52543": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 3,
+      "DesID": 0,
+      "AttrEnum1": 12,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        3
+      ],
+      "BaseID": 52543
+    },
+    "52544": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 4,
+      "DesID": 0,
+      "AttrEnum1": 12,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        4
+      ],
+      "BaseID": 52544
+    },
+    "52545": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 5,
+      "DesID": 0,
+      "AttrEnum1": 12,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        5
+      ],
+      "BaseID": 52545
+    },
+    "52546": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 6,
+      "DesID": 0,
+      "AttrEnum1": 12,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        6
+      ],
+      "BaseID": 52546
+    },
+    "52547": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 7,
+      "DesID": 0,
+      "AttrEnum1": 12,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "BaseID": 52547,
+      "Effect1Value": [
+        7
+      ]
+    },
+    "52551": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 1,
+      "DesID": 0,
+      "AttrEnum1": 13,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        2
+      ],
+      "BaseID": 52551
+    },
+    "52552": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 2,
+      "DesID": 0,
+      "AttrEnum1": 13,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        3
+      ],
+      "BaseID": 52552
+    },
+    "52553": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 3,
+      "DesID": 0,
+      "AttrEnum1": 13,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        3
+      ],
+      "BaseID": 52553
+    },
+    "52554": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 4,
+      "DesID": 0,
+      "AttrEnum1": 13,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        4
+      ],
+      "BaseID": 52554
+    },
+    "52555": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 5,
+      "DesID": 0,
+      "AttrEnum1": 13,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        5
+      ],
+      "BaseID": 52555
+    },
+    "52556": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 6,
+      "DesID": 0,
+      "AttrEnum1": 13,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        6
+      ],
+      "BaseID": 52556
+    },
+    "52557": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 7,
+      "DesID": 0,
+      "AttrEnum1": 13,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "BaseID": 52557,
+      "Effect1Value": [
+        7
+      ]
+    },
+    "52561": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 1,
+      "DesID": 0,
+      "AttrEnum1": 14,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        2
+      ],
+      "BaseID": 52561
+    },
+    "52562": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 2,
+      "DesID": 0,
+      "AttrEnum1": 14,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        3
+      ],
+      "BaseID": 52562
+    },
+    "52563": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 3,
+      "DesID": 0,
+      "AttrEnum1": 14,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        3
+      ],
+      "BaseID": 52563
+    },
+    "52564": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 4,
+      "DesID": 0,
+      "AttrEnum1": 14,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        4
+      ],
+      "BaseID": 52564
+    },
+    "52565": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 5,
+      "DesID": 0,
+      "AttrEnum1": 14,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        5
+      ],
+      "BaseID": 52565
+    },
+    "52566": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 6,
+      "DesID": 0,
+      "AttrEnum1": 14,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        6
+      ],
+      "BaseID": 52566
+    },
+    "52567": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 7,
+      "DesID": 0,
+      "AttrEnum1": 14,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "BaseID": 52567,
+      "Effect1Value": [
+        7
+      ]
+    },
+    "52571": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 1,
+      "DesID": 0,
+      "AttrEnum1": 16,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        2
+      ],
+      "BaseID": 52571
+    },
+    "52572": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 2,
+      "DesID": 0,
+      "AttrEnum1": 16,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        3
+      ],
+      "BaseID": 52572
+    },
+    "52573": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 3,
+      "DesID": 0,
+      "AttrEnum1": 16,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        3
+      ],
+      "BaseID": 52573
+    },
+    "52574": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 4,
+      "DesID": 0,
+      "AttrEnum1": 16,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        4
+      ],
+      "BaseID": 52574
+    },
+    "52575": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 5,
+      "DesID": 0,
+      "AttrEnum1": 16,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        5
+      ],
+      "BaseID": 52575
+    },
+    "52576": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 6,
+      "DesID": 0,
+      "AttrEnum1": 16,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        6
+      ],
+      "BaseID": 52576
+    },
+    "52577": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 7,
+      "DesID": 0,
+      "AttrEnum1": 16,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "BaseID": 52577,
+      "Effect1Value": [
+        7
+      ]
+    },
+    "52581": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 1,
+      "DesID": 0,
+      "AttrEnum1": 15,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        2
+      ],
+      "BaseID": 52581
+    },
+    "52582": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 2,
+      "DesID": 0,
+      "AttrEnum1": 15,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        3
+      ],
+      "BaseID": 52582
+    },
+    "52583": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 3,
+      "DesID": 0,
+      "AttrEnum1": 15,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        3
+      ],
+      "BaseID": 52583
+    },
+    "52584": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 4,
+      "DesID": 0,
+      "AttrEnum1": 15,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        4
+      ],
+      "BaseID": 52584
+    },
+    "52587": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 4,
+      "DesID": 0,
+      "AttrEnum1": 15,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        6
+      ],
+      "BaseID": 52587
+    },
+    "50162": {
+      "SkillID2": 0,
+      "SkillID1": 0,
+      "DepartEnum": 0,
+      "Rank": 5,
+      "DesID": 0,
+      "AttrEnum1": 15,
+      "MartialFilter2": 0,
+      "Grade2": 0,
+      "MartialFilter1": 0,
+      "ItemType": 1,
+      "Grade1": 0,
+      "AttrEnum2": 0,
+      "EffectEnum2": 0,
+      "CondID": 0,
+      "EffectEnum1": 7,
+      "Effect1Value": [
+        5
+      ],
+      "BaseID": 50162
+    }
+  },
+  "formulas": {
+    "49168": {
+      "AttrType": 16,
+      "KfType": 0,
+      "IsGrowup": 1,
+      "IsRoleAttr": 1,
+      "RankDatas": [
+        0,
+        2,
+        3,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "49167": {
+      "AttrType": 15,
+      "KfType": 0,
+      "IsGrowup": 1,
+      "IsRoleAttr": 1,
+      "RankDatas": [
+        0,
+        2,
+        3,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "49166": {
+      "AttrType": 14,
+      "KfType": 0,
+      "IsGrowup": 1,
+      "IsRoleAttr": 1,
+      "RankDatas": [
+        0,
+        2,
+        3,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "49165": {
+      "AttrType": 13,
+      "KfType": 0,
+      "IsGrowup": 1,
+      "IsRoleAttr": 1,
+      "RankDatas": [
+        0,
+        2,
+        3,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "49164": {
+      "AttrType": 12,
+      "KfType": 0,
+      "IsGrowup": 1,
+      "IsRoleAttr": 1,
+      "RankDatas": [
+        0,
+        2,
+        3,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "49163": {
+      "AttrType": 11,
+      "KfType": 0,
+      "IsGrowup": 1,
+      "IsRoleAttr": 1,
+      "RankDatas": [
+        0,
+        2,
+        3,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "49162": {
+      "AttrType": 10,
+      "KfType": 0,
+      "IsGrowup": 1,
+      "IsRoleAttr": 1,
+      "RankDatas": [
+        0,
+        2,
+        3,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "49161": {
+      "AttrType": 9,
+      "KfType": 0,
+      "IsGrowup": 1,
+      "IsRoleAttr": 1,
+      "RankDatas": [
+        0,
+        2,
+        3,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "49160": {
+      "AttrType": 8,
+      "KfType": 0,
+      "IsGrowup": 1,
+      "IsRoleAttr": 1,
+      "RankDatas": [
+        0,
+        4,
+        5,
+        7,
+        8,
+        10,
+        13,
+        15,
+        17
+      ]
+    },
+    "49159": {
+      "AttrType": 7,
+      "KfType": 0,
+      "IsGrowup": 1,
+      "IsRoleAttr": 1,
+      "RankDatas": [
+        0,
+        4,
+        5,
+        7,
+        8,
+        10,
+        13,
+        15,
+        17
+      ]
+    },
+    "49158": {
+      "AttrType": 6,
+      "KfType": 0,
+      "IsGrowup": 1,
+      "IsRoleAttr": 1,
+      "RankDatas": [
+        0,
+        4,
+        5,
+        7,
+        8,
+        10,
+        13,
+        15,
+        17
+      ]
+    },
+    "49157": {
+      "AttrType": 5,
+      "KfType": 0,
+      "IsGrowup": 1,
+      "IsRoleAttr": 1,
+      "RankDatas": [
+        0,
+        4,
+        5,
+        7,
+        8,
+        10,
+        13,
+        15,
+        17
+      ]
+    },
+    "49156": {
+      "AttrType": 4,
+      "KfType": 0,
+      "IsGrowup": 1,
+      "IsRoleAttr": 1,
+      "RankDatas": [
+        0,
+        4,
+        5,
+        7,
+        8,
+        10,
+        13,
+        15,
+        17
+      ]
+    },
+    "49155": {
+      "AttrType": 3,
+      "KfType": 0,
+      "IsGrowup": 1,
+      "IsRoleAttr": 1,
+      "RankDatas": [
+        0,
+        4,
+        5,
+        7,
+        8,
+        10,
+        13,
+        15,
+        17
+      ]
+    }
+  },
+  "forge_generation": {
+    "RecastCountMax": [
+      {
+        "Rank": 1,
+        "Value": 0
+      },
+      {
+        "Rank": 2,
+        "Value": 1
+      },
+      {
+        "Rank": 3,
+        "Value": 2
+      },
+      {
+        "Rank": 4,
+        "Value": 3
+      },
+      {
+        "Rank": 5,
+        "Value": 4
+      },
+      {
+        "Rank": 6,
+        "Value": 5
+      },
+      {
+        "Rank": 7,
+        "Value": 6
+      },
+      {
+        "Rank": 8,
+        "Value": 6
+      },
+      {
+        "Rank": 9,
+        "Value": 6
+      }
+    ],
+    "RecastCountMin": [
+      {
+        "Rank": 1,
+        "Value": 0
+      },
+      {
+        "Rank": 2,
+        "Value": 0
+      },
+      {
+        "Rank": 3,
+        "Value": 1
+      },
+      {
+        "Rank": 4,
+        "Value": 1
+      },
+      {
+        "Rank": 5,
+        "Value": 2
+      },
+      {
+        "Rank": 6,
+        "Value": 2
+      },
+      {
+        "Rank": 7,
+        "Value": 3
+      },
+      {
+        "Rank": 8,
+        "Value": 3
+      },
+      {
+        "Rank": 9,
+        "Value": 3
+      }
+    ],
+    "RecastBluePR": [
+      {
+        "Rank": 1,
+        "Value": 8000000
+      },
+      {
+        "Rank": 2,
+        "Value": 4000000
+      },
+      {
+        "Rank": 3,
+        "Value": 2000000
+      },
+      {
+        "Rank": 4,
+        "Value": 1000000
+      },
+      {
+        "Rank": 5,
+        "Value": 500000
+      },
+      {
+        "Rank": 6,
+        "Value": 300000
+      },
+      {
+        "Rank": 7,
+        "Value": 100000
+      },
+      {
+        "Rank": 8,
+        "Value": 100000
+      },
+      {
+        "Rank": 9,
+        "Value": 100000
+      }
+    ],
+    "FirstRecastBluePR": [
+      {
+        "Rank": 1,
+        "Value": 8000000
+      },
+      {
+        "Rank": 2,
+        "Value": 4000000
+      },
+      {
+        "Rank": 3,
+        "Value": 2000000
+      },
+      {
+        "Rank": 4,
+        "Value": 1000000
+      },
+      {
+        "Rank": 5,
+        "Value": 500000
+      },
+      {
+        "Rank": 6,
+        "Value": 300000
+      },
+      {
+        "Rank": 7,
+        "Value": 100000
+      },
+      {
+        "Rank": 8,
+        "Value": 100000
+      },
+      {
+        "Rank": 9,
+        "Value": 100000
+      }
+    ]
+  }
+}

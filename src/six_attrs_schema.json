@@ -1,0 +1,208 @@
+{
+  "ItemBaseRecast": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "AttrType": {
+      "number": 2,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AttrType"
+    },
+    "KFAttrType": {
+      "number": 3,
+      "type": 14,
+      "label": 1,
+      "type_name": ".TableDR.AttrType"
+    },
+    "RandomSize": {
+      "number": 4,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RandomBase": {
+      "number": 5,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RandomBase"
+    }
+  },
+  "ItemBaseRecastArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.ItemBaseRecast"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  },
+  "ItemRecastAttrGen": {
+    "BaseID": {
+      "number": 1,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "RecastCountMax": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RankValuePair"
+    },
+    "RecastCountMin": {
+      "number": 3,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RankValuePair"
+    },
+    "RecastBluePR": {
+      "number": 4,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RankValuePair"
+    },
+    "FirstRecastBluePR": {
+      "number": 5,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RankValuePair"
+    },
+    "RecasCoinCost": {
+      "number": 6,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RankValuePair"
+    },
+    "RecasIronCost": {
+      "number": 7,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RankValuePair"
+    },
+    "RecastSoldPromote": {
+      "number": 8,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RankValuePair"
+    },
+    "EquipAttrCountMax": {
+      "number": 9,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RankValuePair"
+    },
+    "RoleAttrWeightList": {
+      "number": 10,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RoleAttrValuePair"
+    },
+    "KFAttrWeightList": {
+      "number": 11,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.KFAttrValuePair"
+    },
+    "RoleAttrExtraWeightList": {
+      "number": 12,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.ItemTypeBRoleAttrArrayPair"
+    },
+    "KFAttrExtraWeightList": {
+      "number": 13,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.ItemTypeBKFAttrArrayPair"
+    },
+    "KFID": {
+      "number": 14,
+      "type": 5,
+      "label": 3,
+      "type_name": ""
+    },
+    "KFTypeExtraWeightList": {
+      "number": 15,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.ItemTypeBValueArrayPair"
+    },
+    "KFPowerWeright": {
+      "number": 16,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RankValuePair"
+    },
+    "KFLevelWeight": {
+      "number": 17,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.RankValuePair"
+    },
+    "BuffWeight": {
+      "number": 18,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.IntIntPair"
+    },
+    "AttrWeightFactor": {
+      "number": 19,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "KFFactor": {
+      "number": 20,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "KFClanFactor": {
+      "number": 21,
+      "type": 5,
+      "label": 1,
+      "type_name": ""
+    },
+    "KFRankFactor": {
+      "number": 22,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.ItemKFRankValuePair"
+    }
+  },
+  "ItemRecastAttrGenArray": {
+    "Keys": {
+      "number": 1,
+      "type": 3,
+      "label": 3,
+      "type_name": ""
+    },
+    "Items": {
+      "number": 2,
+      "type": 11,
+      "label": 3,
+      "type_name": ".TableDR.ItemRecastAttrGen"
+    },
+    "TableHash": {
+      "number": 3,
+      "type": 9,
+      "label": 1,
+      "type_name": ""
+    }
+  }
+}

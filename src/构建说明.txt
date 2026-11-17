@@ -1,0 +1,6 @@
+V2.5.3 构建说明
+使用 Windows x64 和 Python 3.14，运行 python -m pip install -r requirements.txt。
+从本目录运行 python desktop_app.py。修改界面后，在 desktop_ui 目录运行 npm ci 和 npm run build。
+构建编辑器运行 python -m PyInstaller desktop.spec。
+构建安装器和发布资源参见项目根目录 README.md 和 build_release.py。
+开发环境的手游资源可以放在源码上一级的 mobile_assets 目录。
