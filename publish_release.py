@@ -4,10 +4,22 @@ import ast
 import json
 import subprocess
 import sys
+from tempfile import TemporaryDirectory
 from pathlib import Path
 from zipfile import ZipFile
 
 ROOT = Path(__file__).resolve().parent
+
+
+def write_release_notes(path, original, releases, online_setup_name):
+    url = f'{releases}/download/online-setup/{online_setup_name}'
+    path.write_text(
+        '## 安装下载\n\n'
+        f'**[下载联网安装器 · 自动获取最新正式版]({url})**\n\n'
+        '本版离线安装包 `MJH-editor-Setup.exe` 在下方附件。\n\n'
+        + original.read_text(encoding='utf-8-sig'),
+        encoding='utf-8',
+    )
 
 
 def run(*command):
@@ -54,7 +66,7 @@ def main():
     if run('git', 'status', '--porcelain'):
         raise ValueError('先提交源码和文档，确保工作区干净，再执行发布。')
     sys.path.insert(0, str(ROOT / 'src'))
-    from editor_update import (MOBILE_NAME, RELEASES, SETUP_NAME, SOURCE_NAME, delta_name,
+    from editor_update import (MOBILE_NAME, ONLINE_SETUP_NAME, RELEASES, SETUP_NAME, SOURCE_NAME, delta_name,
                                verify_installer, verify_manifest, version_tuple)
     if RELEASES != f'https://github.com/{args.repository}/releases':
         raise ValueError('客户端的 RELEASES 与指定发布仓库不同。个人分支请先配置自己的更新渠道和签名公钥。')
@@ -101,10 +113,15 @@ def main():
     if lookup.returncode == 0:
         if not json.loads(lookup.stdout)['isDraft']:
             raise ValueError('该版本已发布。后续修正请创建新的版本号。')
-    else:
-        subprocess.run(['gh', 'release', 'create', tag, '--repo', args.repository, '--verify-tag', '--draft',
-                        '--title', f'MJH-editor V{current}', '--notes-file', str(args.notes_file.resolve())],
-                       cwd=ROOT, check=True)
+    with TemporaryDirectory() as work:
+        notes = Path(work) / 'notes.md'
+        write_release_notes(notes, args.notes_file, RELEASES, ONLINE_SETUP_NAME)
+        if lookup.returncode == 0:
+            subprocess.run(['gh', 'release', 'edit', tag, '--repo', args.repository, '--notes-file', str(notes)],
+                           cwd=ROOT, check=True)
+        else:
+            subprocess.run(['gh', 'release', 'create', tag, '--repo', args.repository, '--verify-tag', '--draft',
+                            '--title', f'MJH-editor V{current}', '--notes-file', str(notes)], cwd=ROOT, check=True)
     subprocess.run(['gh', 'release', 'upload', tag, '--repo', args.repository, '--clobber', *map(str, paths)],
                    cwd=ROOT, check=True)
     actual = json.loads(run('gh', 'api', f'repos/{args.repository}/releases/tags/{tag}'))['assets']

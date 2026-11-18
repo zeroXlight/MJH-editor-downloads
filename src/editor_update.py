@@ -26,6 +26,7 @@ from update_public_key import UPDATE_PUBLIC_KEY
 RELEASES = 'https://github.com/zeroXlight/MJH-editor-downloads/releases'
 MANIFEST = RELEASES + '/latest/download/update.json'
 SETUP_NAME = 'MJH-editor-Setup.exe'
+ONLINE_SETUP_NAME = 'MJH-editor-OnlineSetup.exe'
 SOURCE_NAME = 'MJH-editor-Source.zip'
 MOBILE_NAME = 'MJH-editor-MobileAssets.zip'
 APP_MUTEX = 'MJH-editor-Desktop-v2'
@@ -78,6 +79,14 @@ class GitHubRedirects(HTTPRedirectHandler):
 def open_release(url):
     opener = build_opener(GitHubRedirects())
     return opener.open(Request(url, headers={'User-Agent': 'MJH-editor/' + VERSION}), timeout=20)
+
+
+def fetch_latest_release():
+    with open_release(MANIFEST) as response:
+        raw = response.read(16385)
+    if len(raw) > 16384:
+        raise ValueError('更新清单超出大小限制。')
+    return verify_manifest(raw)
 
 
 def verify_installer(path, release):
@@ -159,7 +168,7 @@ def stage_installer(folder, base, release, report):
     with tempfile.TemporaryDirectory(dir=folder) as temp:
         setup = Path(temp) / SETUP_NAME
         try:
-            delta = matching_delta(base, release)
+            delta = matching_delta(base, release) if base is not None else None
             if delta:
                 import bsdiff4
                 patch = Path(temp) / 'update.bsdiff'
@@ -245,11 +254,7 @@ class EditorUpdate:
 
     def _check(self):
         try:
-            with open_release(MANIFEST) as response:
-                raw = response.read(16385)
-            if len(raw) > 16384:
-                raise ValueError('更新清单超出大小限制。')
-            release = verify_manifest(raw)
+            release = fetch_latest_release()
             with self.lock:
                 if release != self.release:
                     self.cached = None

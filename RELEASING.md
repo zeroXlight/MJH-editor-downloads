@@ -8,7 +8,8 @@
 | --- | --- |
 | main 或个人指定分支 | 完整 src、前端 dist、构建/发布脚本、安装器脚本、README 和本文 |
 | vX.Y.Z 标签 | 对应这次源码提交 |
-| Release | 同版本安装器、手游资源 ZIP、源码 ZIP、签名更新清单，以及清单中实际列出的差分包 |
+| 正式版 Release | 正文顶部的联网下载链接、同版本离线安装器、手游资源 ZIP、源码 ZIP、签名更新清单，以及清单中列出的差分包 |
+| online-setup 下载入口 | 独立的联网安装器 EXE，只在首次发布或联网安装器本身有改动时上传 |
 
 源码 ZIP 要与版本标签的文件清单和内容一致。每次发布先完整准备附件，再发布为正式 Latest。
 
@@ -98,7 +99,13 @@ MJH-editor-Source.zip
 update.json
 ~~~
 
-脚本会编译编辑器和独立修复工具，生成资源 ZIP 和源码 ZIP，再生成安装器。update.json 的签名覆盖版本、安装包大小、SHA-256 及可用差分信息。
+脚本会编译编辑器和独立修复工具，打包资源 ZIP、源码 ZIP 与固定版本安装器。update.json 的签名覆盖版本、安装器大小、SHA-256 及可用差分信息。联网安装器在运行时读取最新正式版的 update.json，再校验并启动该版本的完整安装器。
+
+### 维护联网安装入口
+
+首次发布联网安装器或修改联网安装器时，在原构建命令追加 `--build-online-setup`，生成 `release-assets/MJH-editor-OnlineSetup.exe`。在 GitHub 创建标签为 `online-setup` 的独立 Release 并上传此 EXE，按 GitHub 的 Pre-release 类型发布。GitHub 的 Latest 继续用于带签名清单的正式版本。
+
+固定下载地址是 `https://github.com/OWNER/REPOSITORY/releases/download/online-setup/MJH-editor-OnlineSetup.exe`。维护此入口时保留标签和文件名。以后只发布编辑器版本时，沿用原 EXE 和固定地址。仓库首页和每个新正式版正文顶部都提供这一下载入口。
 
 ### 生成差分
 
@@ -115,6 +122,8 @@ V2.5.3 开始缓存安装基线，V2.5.1/V2.5.2 首次迁移仍下载完整包�
 ## 6. 本地验证和发布说明
 
 在独立目录验证自选安装目录、默认可选组件、补装、更新进度、开始菜单的更新修复工具、正常退出后安装，以及重新打开的版本号。
+
+运行联网安装器，确认它下载的是当前公开 Latest，下载结束后打开对应版本的安装向导。发布前从本地构建运行时，它会获取 GitHub 上已发布的正式版。发布后可再用早期保存的联网安装器验证它是否能找到新版。
 
 模拟编辑器 EXE 缺失时，修复工具应能独立打开。编辑器卡住时，先通过任务管理器结束该编辑器进程，再运行修复工具。差分重建的安装包应与正式完整包逐字节或 SHA-256 一致。
 
@@ -144,7 +153,7 @@ if ($LASTEXITCODE -ne 0) { throw '发布中断，请检查输出和 GitHub 状�
 
 如果网络中断，读取 GitHub 真实状态后处理。相同版本仍为草稿时，可用原提交和附件重试。已发布版本的修正使用新版本号。并发提交导致推送被拒绝时，先读取并合并远端改动，再重新构建。
 
-通过网页或连接器发布时也遵循相同顺序。先同步完整源码到目标分支，再用该确切提交建立 vX.Y.Z 标签，草稿收齐并核对四个固定附件及差分文件后设为正式 Latest。
+通过网页或连接器发布时也遵循相同顺序。先同步完整源码到目标分支，再用该确切提交建立 vX.Y.Z 标签。将联网安装器固定下载地址放在发布说明首段，草稿收齐并核对四个固定附件及差分文件后设为正式 Latest。使用 `publish_release.py` 时会自动添加下载链接。
 
 ## 8. 发布后核验与故障修复
 
@@ -183,7 +192,7 @@ $key = Join-Path $env:LOCALAPPDATA 'MJH-editor-MY-FORK-release\ed25519.key'
 以后每次 build_release.py 都追加 --key $key。提交自己的公钥和渠道设置。自己的用户首次完整安装这个渠道版本后，就会信任自己的签名和更新地址。作者版继续沿用作者的公钥和渠道。
 
 4. 独立分发时统一修改 installer.iss 的 AppId、DefaultDirName、DefaultGroupName、AppMutex，以及 src/editor_update.py 的 APP_MUTEX。同时安装多个渠道时，为自己的更新设置和缓存选择独立的用户配置目录。
-5. 按前述步骤修改、提交、构建和校验，发布参数使用自己的仓库和分支。
+5. 按前述步骤修改、提交、构建和校验，发布参数使用自己的仓库和分支。首次发布时同时创建自己的 `online-setup` 下载入口，将 README 的联网安装器下载地址改成自己的仓库。
 
 ~~~powershell
 & $python '.\publish_release.py' --repository YOUR_NAME/MJH-editor-downloads --branch release/2.5.4 --notes-file '.\release-assets\notes.md'
@@ -204,6 +213,7 @@ $key = Join-Path $env:LOCALAPPDATA 'MJH-editor-MY-FORK-release\ed25519.key'
 需要差分时用上一版正式发布的原始附件作基线。
 运行 publish_release.py --check-only，核对源码 ZIP 与提交逐文件一致。
 发布时同步目标分支、标签、四个固定附件和签名清单列出的差分文件。
+在正式版说明开头添加固定联网入口链接。联网安装器有改动时才重新构建并更新独立入口。
 核对云端哈希后发布为 Latest，再检查旧版检测新版。
 最后返回源码提交、版本发布、发布文档的链接，以及真实验证结果。
 ~~~

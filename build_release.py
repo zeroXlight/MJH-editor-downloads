@@ -91,6 +91,7 @@ def run():
     parser.add_argument('--previous-release', type=Path, action='append', default=[],
                         help='Directory containing a previous signed update.json and MJH-editor-Setup.exe')
     parser.add_argument('--skip-app-build', action='store_true', help='Reuse the app binary already built for this source version')
+    parser.add_argument('--build-online-setup', action='store_true', help='Also build the standalone online installer')
     args = parser.parse_args()
     key = load_key(args.key, args.init_key)
     if args.init_key:
@@ -101,7 +102,7 @@ def run():
 
     sys.path.insert(0, str(SRC))
     from edition import VERSION
-    from editor_update import (MOBILE_NAME, RELEASES, SETUP_NAME, SOURCE_NAME, asset_url,
+    from editor_update import (MOBILE_NAME, ONLINE_SETUP_NAME, RELEASES, SETUP_NAME, SOURCE_NAME, asset_url,
                                delta_name, manifest_payload, verify_installer, verify_manifest, version_tuple)
     version = VERSION.removeprefix('V')
     OUT.mkdir(exist_ok=True)
@@ -110,10 +111,16 @@ def run():
             [sys.executable, '-m', 'PyInstaller', '--noconfirm', '--distpath', str(OUT / 'build'), '--workpath', str(OUT / 'work'), 'desktop.spec'],
             check=True, cwd=SRC,
         )
+    launchers = []
+    if not args.skip_app_build:
+        launchers.append(('update_launcher.py', 'MJH-editor-Update', OUT / 'build'))
+    if args.build_online_setup:
+        launchers.append(('online_setup.py', Path(ONLINE_SETUP_NAME).stem, OUT))
+    for entry, name, destination in launchers:
         subprocess.run(
             [sys.executable, '-m', 'PyInstaller', '--noconfirm', '--onefile', '--windowed',
-             '--icon', str(SRC / 'app.ico'), '--name', 'MJH-editor-Update', '--distpath', str(OUT / 'build'),
-             '--workpath', str(OUT / 'work'), '--specpath', str(OUT / 'work'), 'update_launcher.py'],
+             '--icon', str(SRC / 'app.ico'), '--name', name, '--distpath', str(destination),
+             '--workpath', str(OUT / 'work'), '--specpath', str(OUT / 'work'), entry],
             check=True, cwd=SRC,
         )
     mobile = args.mobile_assets.resolve()
@@ -179,6 +186,9 @@ def run():
     print(f'v{version} release assets ready:')
     for path in (setup, mobile_zip, source_zip, manifest_path):
         print(path.name, path.stat().st_size, digest(path))
+    if args.build_online_setup:
+        online_setup = OUT / ONLINE_SETUP_NAME
+        print(online_setup.name, online_setup.stat().st_size, digest(online_setup))
     for patch in deltas.values():
         print(delta_name(patch['base_version']), patch['size'], patch['sha256'])
 

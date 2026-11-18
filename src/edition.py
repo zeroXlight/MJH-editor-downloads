@@ -3,7 +3,7 @@ import json
 import sys
 from pathlib import Path
 
-VERSION = 'V2.5.3'
+VERSION = 'V2.5.4'
 APP_DIR = Path(sys.executable if getattr(sys, 'frozen', False) else __file__).resolve().parent
 ASSET_DIR = APP_DIR / 'mobile_assets'
 

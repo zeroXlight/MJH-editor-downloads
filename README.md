@@ -1,10 +1,14 @@
-# MJH-editor V2.5.3
+# MJH-editor V2.5.4
 
 梦江湖装备、武学与人物编辑器，适用于带 Microsoft Edge WebView2 的 64 位 Windows。
 
 ## 安装和升级
 
-从 [下载页](https://github.com/zeroXlight/MJH-editor-downloads/releases/latest) 下载 `MJH-editor-Setup.exe`。选择一个可写的安装目录。手游模型与立绘、当前版本源码均可选。可选组件在勾选时才下载。
+**[下载联网安装器](https://github.com/zeroXlight/MJH-editor-downloads/releases/download/online-setup/MJH-editor-OnlineSetup.exe)**
+
+`MJH-editor-OnlineSetup.exe` 可以长期保留。每次运行时，它会从 GitHub 检查最新正式版、下载并校验对应安装包，再打开安装向导。
+
+需要安装指定版本时，运行该版本发布页中的 `MJH-editor-Setup.exe`。两种入口都可以在安装向导选择目录，并按需安装手游模型与立绘、当前版本源码。
 
 试装本地构建时，可将同版本的可选 ZIP 放在安装器旁边，勾选后由安装器校验并从本地解包。
 
@@ -24,6 +28,6 @@
 
 更新 `src/edition.py` 中的版本号，并重建前端。使用项目已有的更新签名密钥运行 `build_release.py`，提供资源目录、`ISCC.exe` 和简体中文语言文件。密钥存放在开发工作环境的 `%LOCALAPPDATA%/MJH-editor-release/ed25519.key`，发布脚本也可通过 `--key` 指定安全存放的原密钥。
 
-将 `release-assets` 中的 `MJH-editor-Setup.exe`、`MJH-editor-MobileAssets.zip`、`MJH-editor-Source.zip` 和 `update.json` 一同上传至公开下载仓库的对应版本 Release，例如 `v2.5.1`。先上传齐全，再发布为最新版。已发布程序通过内置公钥验证更新清单。
+将 `release-assets` 中的 `MJH-editor-OnlineSetup.exe`、`MJH-editor-Setup.exe`、`MJH-editor-MobileAssets.zip`、`MJH-editor-Source.zip` 和 `update.json` 一同上传至对应版本 Release。先上传齐全，再发布为最新版。联网安装器和编辑器通过内置公钥验证更新清单。
 
 为上一版生成差分包时，追加 `--previous-release <上一版的 release-assets 路径>`。参数可重复指定，以覆盖多个旧版。若脚本生成 `MJH-editor-From-*.bsdiff`，把它与这次生成的签名清单和完整安装包一同上传。
